@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv
+  SYSTEM 'xmltv.dtd'>
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+	<programme channel="sv.hbonordic.tv" start="20151025022500 +0100" stop="20151025025000 +0100">
+		<title lang="sv">Doll &amp; Em</title>
+		<sub-title lang="sv">Episode 3</sub-title>
+		<desc lang="sv">Ett slumpartat möte med Ewan McGregor överraskar Dolly, och Emily får en filmroll som kan riskera framtiden för den off-Broadwaypjäs hon vill sätta upp med Doll.</desc>
+		<credits>
+			<director>Emily Mortimer</director>
+			<actor>Emily Mortimer</actor>
+			<actor>Dolly Wells</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="xmltv_ns">1 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 2</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025025000 +0100" stop="20151025031500 +0100">
+		<title lang="sv">Doll &amp; Em</title>
+		<sub-title lang="sv">Episode 4</sub-title>
+		<desc lang="sv">Medan Dolly oroar sig för att Ewan McGregor inte hör av sig, och Em blir också sviken av en skådespelare, vilket leder till att hon återigen får svårt att fokusera på hennes och Dollys pjäs.</desc>
+		<credits>
+			<director>Emily Mortimer</director>
+			<actor>Emily Mortimer</actor>
+			<actor>Dolly Wells</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="xmltv_ns">1 . 3 .</episode-num>
+		<episode-num system="onscreen">Del 4 säsong 2</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025031500 +0100" stop="20151025035500 +0100">
+		<title lang="sv">12 Monkeys</title>
+		<sub-title lang="sv">The Red Forest</sub-title>
+		<desc lang="sv">När de tragiska händelserna i The Night Room skapar en alternativ verklighet år 2043 riskerar Cole sin framtid för att rädda dr Railly.</desc>
+		<credits>
+			<director>Alex Zakrzewski</director>
+			<actor role="Aaron Marker">Noah Bean</actor>
+			<actor role="James Cole">Aaron Stanford</actor>
+			<actor role="Jones">Barbara Sukowa</actor>
+			<actor role="Cassandra Railly">Amanda Schull</actor>
+			<actor role="Pallid Man">Tom Noonan</actor>
+			<actor role="Jennifer Goines">Emily Hampshire</actor>
+			<actor role="Ramse">Kirk Acevedo</actor>
+			<writer>Christopher Monfette</writer>
+		</credits>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Sci-Fi</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=272644&amp;seasonid=591220&amp;id=5028344&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/272644</episode-num>
+		<episode-num system="xmltv_ns">0 . 5 .</episode-num>
+		<episode-num system="onscreen">Del 6 säsong 1</episode-num>
+		<star-rating>
+			<value>5.7 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025040000 +0100" stop="20151025043000 +0100">
+		<title lang="sv">Togetherness</title>
+		<sub-title lang="sv">Kick the Can</sub-title>
+		<desc lang="sv">Efter ett intensivt terapisamtal ordnar Michelle en kul dag tillsammans med gamla vänner, trots att Brett är allt annat än entusiastisk. När en grupp hipsters ser ut att kunna förstöra deras planer utmanar Michelle dem till en brutal lek.</desc>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=277863&amp;seasonid=574811&amp;id=4781591&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/277863</episode-num>
+		<episode-num system="xmltv_ns">0 . 4 .</episode-num>
+		<episode-num system="onscreen">Del 5 säsong 1</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025043000 +0100" stop="20151025051500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 4</sub-title>
+		<desc lang="sv">Medan Scott frenetiskt skyndar till platsen drar Section 20 åt sin snara om Shiro och Mei i södra Thailand.</desc>
+		<credits>
+			<director>Julian Holmes</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>James Dormer</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602348&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 3 .</episode-num>
+		<episode-num system="onscreen">Del 4 säsong 4</episode-num>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025051500 +0100" stop="20151025071500 +0100">
+		<title lang="sv">Varian's War</title>
+		<desc lang="sv">Denna rörande tv-film handlar om Varian Fry, en bortglömd hjälte från andra världskriget, som skapade ett underjordiskt räddningssällskap för att rädda kulturpersonligheter från koncentrationslägren. Han räddade konstnärer, författare och forskare.</desc>
+		<credits>
+			<director>Lionel Chetwynd</director>
+			<actor role="Varian Fry">William Hurt</actor>
+			<actor role="Miriam Davenport">Julia Ormond</actor>
+			<actor role="Beamish">Matt Craven</actor>
+			<actor role="Marcello">Maury Chaykin</actor>
+			<actor role="Freier">Alan Arkin</actor>
+			<actor role="Alma Werfel-Mahler">Lynn Redgrave</actor>
+		</credits>
+		<category lang="en">movie</category>
+		<category lang="en">Drama</category>
+		<url>http://www.themoviedb.org/movie/74474</url>
+		<episode-num system="themoviedb.org">movie/74474</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025071500 +0100" stop="20151025081500 +0100">
+		<title lang="sv">State of Play: Happiness</title>
+		<desc lang="sv">Denna dokumentär utforskar den nya vetenskapen runt lycka, som hävdar att lyckan består av fyra grundläggande pelare: förhållanden, hälsa, syfte och pengar. Film följer NFL-spelare när de letar efter lyckan efter att deras karriär är förbi.</desc>
+		<credits>
+			<director>Sarah Aubrey</director>
+		</credits>
+		<category lang="en">movie</category>
+		<category lang="en">Documentary</category>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025081500 +0100" stop="20151025095500 +0100">
+		<title lang="sv">Baseketball</title>
+		<desc lang="sv">Från David Zucker, som regisserade Airplane, kommer berättelsen om två killar som uppfinner en sport där de med dåliga knän och ryggar kan tävla mot idrottare som har tagit anabola. I rollerna syns bland annat Trey Parker, Matt Stone och Jenny McCarthy.</desc>
+		<credits>
+			<director>David Zucker</director>
+			<actor role="Joe Cooper">Trey Parker</actor>
+			<actor role="Doug Remer">Matt Stone</actor>
+			<actor role="Jenna Reed">Yasmine Bleeth</actor>
+			<actor role="Yvette Denslow">Jenny McCarthy</actor>
+			<actor role="Squeak Scolari">Dian Bachar</actor>
+			<actor role="Ted Denslow">Ernest Borgnine</actor>
+			<actor role="Baxter Cain">Robert Vaughn</actor>
+			<actor role="Joey Thomas">Trevor Einhorn</actor>
+			<actor role="Himself">Bob Costas</actor>
+			<actor role="Himself">Al Michaels</actor>
+			<actor role="Reggie Jackson">Reggie Jackson</actor>
+			<actor role="Victoria Silvstedt">Victoria Silvstedt</actor>
+			<writer>David Zucker</writer>
+			<writer>Robert LoCash</writer>
+			<writer>Lewis Friedman</writer>
+			<writer>Jeff Wright</writer>
+			<producer>Robert LoCash</producer>
+			<producer>Gil Netter</producer>
+			<producer>David Zucker</producer>
+		</credits>
+		<category lang="en">movie</category>
+		<category lang="en">Comedy</category>
+		<url>http://www.themoviedb.org/movie/14013</url>
+		<country>US</country>
+		<episode-num system="themoviedb.org">movie/14013</episode-num>
+		<star-rating>
+			<value>5.7 / 10</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025095500 +0100" stop="20151025111500 +0100">
+		<title lang="sv">Ascension</title>
+		<sub-title lang="sv">Chapter Two</sub-title>
+		<desc lang="sv">Gault utreder en explosion på Ascension, och Enzmann får handskas med en konsult som direktör Warren har anlitat för att utreda Stokes död. Christa blir föremål för gåtfulla skeenden på Ascension, och Krueger kommer närmare sanningen om projektet.</desc>
+		<credits>
+			<actor role="William Denninger">Brian Van Holt</actor>
+			<actor role="Aaron Gault">Brandon P. Bell</actor>
+			<actor role="Juliet Bryce">Andrea Roth</actor>
+			<actor role="Harris Enzmann">Gil Bellows</actor>
+			<actor role="Samantha Krueger">Lauren Lee Smith</actor>
+			<actor role="Stockyard Master Stokes">Brad Carter</actor>
+			<actor role="Viondra Denniger">Tricia Helfer</actor>
+			<actor role="Nora Bryce">Jacqueline Byers</actor>
+			<actor role="Councilman Rose">Al Sapienza</actor>
+			<actor role="Presley Delon">Michelle Mylett</actor>
+			<actor role="Duke Vanderhaus">Ryan Robbins</actor>
+			<actor role="Jackie">Jessica Sipos</actor>
+			<actor role="James Toback">P.J. Boudousqué</actor>
+			<actor role="Emily Vanderhaus">Tiffany Lonsdale</actor>
+			<actor role="Christa Valis">Ellie O'Brien</actor>
+			<writer>Philip Levens</writer>
+		</credits>
+		<date>2014</date>
+		<category lang="en">series</category>
+		<category lang="en">Mini</category>
+		<category lang="en">Sci-Fi</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=279553&amp;seasonid=579781&amp;id=5017376&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/279553</episode-num>
+		<episode-num system="xmltv_ns">0 . 1 .</episode-num>
+		<episode-num system="onscreen">Del 2 säsong 1</episode-num>
+		<star-rating>
+			<value>7.1 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025111500 +0100" stop="20151025120500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 1</sub-title>
+		<desc lang="sv">Säsongspremiär. Stonebridge, Scott och S20-laget får handskas med mer än de hade förväntat sig när den brittiske ambassadören i Thailands dotter kidnappas. Med bland andra Philip Winchester, Sullivan Stapleton och Michelle Lukes.</desc>
+		<credits>
+			<director>Michael J. Bassett</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Simon Burke</writer>
+			<writer>Tim Vaughan</writer>
+			<writer>Michael J. Bassett</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4599196&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 0 .</episode-num>
+		<episode-num system="onscreen">Del 1 säsong 4</episode-num>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025120500 +0100" stop="20151025125000 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 2</sub-title>
+		<desc lang="sv">Scott och Stonebridge får i uppdrag att leta reda på en gangster i Bangkok som tros har upplysningar om en global terroristkomplott.</desc>
+		<credits>
+			<director>Michael J. Bassett</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Simon Burke</writer>
+			<writer>Tim Vaughan</writer>
+			<writer>Michael J. Bassett</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602346&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 1 .</episode-num>
+		<episode-num system="onscreen">Del 2 säsong 4</episode-num>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025125000 +0100" stop="20151025134000 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 3</sub-title>
+		<desc lang="sv">Section 20 har satts dit för mordet på en boss för ett brottssyndikat och jagar en andra nordkoreansk spion i och utanför Bangkok.</desc>
+		<credits>
+			<director>Julian Holmes</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<actor>Dougray Scott</actor>
+			<writer>James Dormer</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602347&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 4</episode-num>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025134000 +0100" stop="20151025142500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 4</sub-title>
+		<desc lang="sv">Medan Scott frenetiskt skyndar till platsen drar Section 20 åt sin snara om Shiro och Mei i södra Thailand.</desc>
+		<credits>
+			<director>Julian Holmes</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>James Dormer</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602348&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 3 .</episode-num>
+		<episode-num system="onscreen">Del 4 säsong 4</episode-num>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025142500 +0100" stop="20151025151000 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 5</sub-title>
+		<desc lang="sv">Scott och Stonebridge åker över gränsen in i Nordkorea i hopp om att hejda ett kärnvapenfirande.</desc>
+		<credits>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602349&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 4 .</episode-num>
+		<episode-num system="onscreen">Del 5 säsong 4</episode-num>
+		<star-rating>
+			<value>6.3 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025151000 +0100" stop="20151025155500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 6</sub-title>
+		<desc lang="sv">Scott står inför ett dilemma där ingen kan vinna i Nordkorea medan Locke och Martinez vänder sig till Ryssland för att hitta allierade.</desc>
+		<credits>
+			<director>Paul Wilmshurst</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>John Simpson</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602350&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 5 .</episode-num>
+		<episode-num system="onscreen">Del 6 säsong 4</episode-num>
+		<star-rating>
+			<value>6.4 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025155500 +0100" stop="20151025164500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 7</sub-title>
+		<desc lang="sv">I Wien tampas Scott och Stonebridge med Nordkoreanska rebeller, den ryska maffian och världens farligaste bombtillverkare.</desc>
+		<credits>
+			<director>Stephen Woolfenden</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Ben Newman</writer>
+			<writer>Simon Burke</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602351&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 6 .</episode-num>
+		<episode-num system="onscreen">Del 7 säsong 4</episode-num>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025164500 +0100" stop="20151025173500 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 8</sub-title>
+		<desc lang="sv">Scott och Stonebridge försöker avbryta ett utbyte av material till ett kärnvapen. Locke möter sin ärkefiende.</desc>
+		<credits>
+			<director>Stephen Woolfenden</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Tim Vaughan</writer>
+			<writer>Michael J. Bassett</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602352&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 7 .</episode-num>
+		<episode-num system="onscreen">Del 8 säsong 4</episode-num>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025173500 +0100" stop="20151025182000 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 9</sub-title>
+		<desc lang="sv">Scott och Stonebridge agerar utefter en känsla och beger sig till Geneve, i jakt på Li-Na och en dödlig kärnvapenbomb.</desc>
+		<credits>
+			<director>Michael J. Bassett</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Richard Zajdlic</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602353&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 8 .</episode-num>
+		<episode-num system="onscreen">Del 9 säsong 4</episode-num>
+		<star-rating>
+			<value>6.3 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025182000 +0100" stop="20151025191000 +0100">
+		<title lang="sv">Strike Back</title>
+		<sub-title lang="sv">Shadow Warfare: Episode 10</sub-title>
+		<desc lang="sv">Scott og Stonebridge prøver at slippe fra et hold lejesoldater i de Schweiziske Alper, alt imens de giver en forræder en retfærdig straf.</desc>
+		<credits>
+			<director>Michael J. Bassett</director>
+			<actor role="Sgt. Julia Richmond">Michelle Lukes</actor>
+			<actor role="Major Oliver Sinclair">Rhashan Stone</actor>
+			<actor role="Sgt. Michael Stonebridge">Philip Winchester</actor>
+			<actor role="Maj. Rachel Dalton">Rhona Mitra</actor>
+			<actor role="John Porter">Richard Armitage</actor>
+			<actor role="James Middleton">Colin Salmon</actor>
+			<actor role="Danni Prendiville">Shelley Conn</actor>
+			<actor role="Rebecca">Lyne Renee</actor>
+			<actor role="Sgt. Damien Scott">Sullivan Stapleton</actor>
+			<actor role="Hugh Collinson">Andrew Lincoln</actor>
+			<actor role="Col. Eleanor Grant">Amanda Mealing</actor>
+			<actor role="Layla Thompson">Jodhi May</actor>
+			<writer>Richard Zajdlic</writer>
+		</credits>
+		<date>2010</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=148581&amp;seasonid=523312&amp;id=4602354&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/148581</episode-num>
+		<episode-num system="xmltv_ns">3 . 9 .</episode-num>
+		<episode-num system="onscreen">Del 10 säsong 4</episode-num>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025191000 +0100" stop="20151025201000 +0100">
+		<title lang="sv">Real Time With Bill Maher</title>
+		<sub-title lang="sv">Episode 27</sub-title>
+		<desc lang="sv">I direktsändning från Los Angeles dissekerar Bill Maher och hans gäster personer från Wall Street, Hollywood, Washington D.C. och världen över. Heta debattämnen som sjukvård, den federala skulden, energi, vapen, skolan, miljön och mer tas upp.</desc>
+		<credits>
+			<director>Hal Grant</director>
+			<actor>Bill Maher</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="xmltv_ns">12 . 26 .</episode-num>
+		<episode-num system="onscreen">Del 27 säsong 13</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025201000 +0100" stop="20151025203500 +0100">
+		<title lang="sv">Doll &amp; Em</title>
+		<sub-title lang="sv">Episode 3</sub-title>
+		<desc lang="sv">Ett slumpartat möte med Ewan McGregor överraskar Dolly, och Emily får en filmroll som kan riskera framtiden för den off-Broadwaypjäs hon vill sätta upp med Doll.</desc>
+		<credits>
+			<director>Emily Mortimer</director>
+			<actor>Emily Mortimer</actor>
+			<actor>Dolly Wells</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="xmltv_ns">1 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 2</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025203500 +0100" stop="20151025210000 +0100">
+		<title lang="sv">Doll &amp; Em</title>
+		<sub-title lang="sv">Episode 4</sub-title>
+		<desc lang="sv">Medan Dolly oroar sig för att Ewan McGregor inte hör av sig, och Em blir också sviken av en skådespelare, vilket leder till att hon återigen får svårt att fokusera på hennes och Dollys pjäs.</desc>
+		<credits>
+			<director>Emily Mortimer</director>
+			<actor>Emily Mortimer</actor>
+			<actor>Dolly Wells</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<episode-num system="xmltv_ns">1 . 3 .</episode-num>
+		<episode-num system="onscreen">Del 4 säsong 2</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025210000 +0100" stop="20151025214500 +0100">
+		<title lang="sv">The Jinx: The Life and Deaths of Robert Durst</title>
+		<sub-title lang="sv">Chapter 5</sub-title>
+		<desc lang="sv">Nutid: På de 33 år som har passerat sedan Kathie Dursts försvinnande har inga framsteg gjorts vad gäller att ta reda på vad som hände med henne eller med att hitta hennes kropp. Hennes släkt och vänner jagar fortfarande sanningen.</desc>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Documentary</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=289946&amp;seasonid=607677&amp;id=5121971&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/289946</episode-num>
+		<episode-num system="xmltv_ns">0 . 4 .</episode-num>
+		<episode-num system="onscreen">Del 5 säsong 1</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025214500 +0100" stop="20151025222500 +0100">
+		<title lang="sv">The Jinx: The Life and Deaths of Robert Durst</title>
+		<sub-title lang="sv">Chapter 6</sub-title>
+		<desc lang="sv">Nutid: Det har nästan gått ett decennium sedan filmskaparna började utreda Robert och hans påstådda brott. I jakt på sanningen har de pratat med över 100 människor som är delaktiga i berättelsen om honom, däribland släkt, vänner, poliser och advokater.</desc>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Documentary</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=289946&amp;seasonid=607677&amp;id=5121972&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/289946</episode-num>
+		<episode-num system="xmltv_ns">0 . 5 .</episode-num>
+		<episode-num system="onscreen">Del 6 säsong 1</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025222500 +0100" stop="20151025232500 +0100">
+		<title lang="sv">Game of Thrones</title>
+		<sub-title lang="sv">The Gift</sub-title>
+		<desc lang="sv">Jon förbereder sig på konflikter. Sansa försöker prata med Theon. Brienne väntar på ett tecken. Stannis är alltjämt envis, och Jaime försöker återuppta kontakten med en släkting.</desc>
+		<credits>
+			<director>David Benioff</director>
+			<director>D.B. Weiss</director>
+			<actor>Lena Headey</actor>
+			<actor>Peter Dinklage</actor>
+			<actor>Nikolaj Coster-Waldau</actor>
+			<actor>Kit Harington</actor>
+			<actor>Emilia Clarke</actor>
+			<actor>Maisie Williams</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<episode-num system="xmltv_ns">4 . 6 .</episode-num>
+		<episode-num system="onscreen">Del 7 säsong 5</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151025232500 +0100" stop="20151026002500 +0100">
+		<title lang="sv">Game of Thrones</title>
+		<sub-title lang="sv">Hardhome</sub-title>
+		<desc lang="sv">Arya gör framsteg i sin träning. Sansa ställer en gammal vän mot väggen. Cersei kämpar emot motgångar. Jon ger sig av på en resa.</desc>
+		<credits>
+			<director>David Benioff</director>
+			<director>D.B. Weiss</director>
+			<actor>Lena Headey</actor>
+			<actor>Peter Dinklage</actor>
+			<actor>Nikolaj Coster-Waldau</actor>
+			<actor>Kit Harington</actor>
+			<actor>Emilia Clarke</actor>
+			<actor>Maisie Williams</actor>
+		</credits>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<episode-num system="xmltv_ns">4 . 7 .</episode-num>
+		<episode-num system="onscreen">Del 8 säsong 5</episode-num>
+	</programme>
+	<programme channel="sv.hbonordic.tv" start="20151026002500 +0100" stop="20151026014500 +0100">
+		<title lang="sv">Hatfields and McCoys: Bad Blood</title>
+		<desc lang="sv">Asa McCoy är en unionssoldat på väg hem efter ett fruktansvärt fältslag. Han råkar reta upp Jim Vance och dennes syskonson Ellison Hatfield. De är konfederationssympatisörer och blir ursinniga av blotta tanken på att en granne kan slåss för unionen.</desc>
+		<credits>
+			<director>Fred Olen Ray</director>
+			<actor role="Devil Anse Hatfield">Jeff Fahey</actor>
+			<actor role="Governor Bramlette">Christian Slater</actor>
+			<actor role="Ran'l McCoy">Perry King</actor>
+			<actor role="Vicey Hatfield">Priscilla Barnes</actor>
+			<actor role="Jim Vance">Tim Abell</actor>
+			<actor role="Johnse Hatfield">Sean Flynn</actor>
+			<actor role="Sarah McCoy">Lisa Rotondi</actor>
+			<actor role="Rosanna McCoy">Kassandra Clementi</actor>
+			<actor role="Frank Phillips">Ted Monte</actor>
+			<actor role="Elias Hatfield">Dylan Vox</actor>
+			<actor role="Valentine Hatfield">John Wells</actor>
+			<producer>Fred Olen Ray</producer>
+		</credits>
+		<category lang="en">movie</category>
+		<category lang="en">Drama</category>
+		<category lang="en">Action</category>
+		<category lang="en">Adventure</category>
+		<url>http://www.themoviedb.org/movie/112888</url>
+		<country>US</country>
+		<episode-num system="themoviedb.org">movie/112888</episode-num>
+	</programme>
+</tv>

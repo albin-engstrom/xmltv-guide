@@ -1,0 +1,4536 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- ViewVC :: http://www.viewvc.org/ -->
+<head>
+<title>SourceForge.net Repository - [xmltv] Log of /xmltv/xmltv.dtd</title>
+<meta name="generator" content="ViewVC 1.1.6" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="The world's largest development and download repository of Open Source code and applications" />
+<meta name="keywords" content="Open Source, Development, Developers, Projects, Downloads, OSTG, VA Software, SF.net, SourceForge" />
+<title>SourceForge.net Repository - xmltv Index of /</title>
+<link rel="shortcut icon" href="http://a.fsdn.com/con/img/favicon.ico" />
+<link rel="stylesheet" href="/viewvc-static/styles.css" type="text/css" />
+<style type="text/css">
+#doc3 { max-width: 1000px; margin: 0 auto; }
+#hd .logo {
+background: url("http://a.fsdn.com/sf/images/phoneix/sf_phoneix.png") no-repeat;
+color: transparent;
+display: inline-block;
+height: 36px;
+}
+#hd .search { display: none; }
+#breadcrumbs { margin-bottom: 1em; }
+#fad83 { float: right; }
+#yui-main { min-height: 100px; }
+#ft .yui-u { display: inline-block; margin-right: 2em; }
+</style>
+
+<!-- BEGIN: AdSolution-Tag 4.2: Global-Code [PLACE IN HTML-HEAD-AREA!] -->
+<!-- DoubleClick Random Number -->
+<script language="JavaScript" type="text/javascript">
+dfp_ord=Math.random()*10000000000000000;
+dfp_tile = 1;
+</script>
+<!-- End DoubleClick Random Number -->
+<script type="text/javascript">
+var google_page_url = 'http://sourceforge.net/projects/xmltv/';
+var sourceforge_project_name = 'xmltv';
+var sourceforge_project_description = '';
+</script>
+<!-- END: AdSolution-Tag 4.2: Global-Code -->
+<!-- after META tags -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-32013-37']);
+_gaq.push(['_setDomainName', '.sourceforge.net']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['t2._setAccount', 'UA-36130941-4']);
+_gaq.push(['t2._setDomainName', '.sourceforge.net']);
+_gaq.push(['t2._trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+<body class="short-head">
+<!--[if IE 7]><div id="ie7only"><![endif]-->
+<!--[if IE 6]><div id="ie6only"><![endif]-->
+<!--[if IE]><div id="ieonly"><![endif]-->
+<div id="doc3">
+<div id="hd">
+<div class="yui-b">
+<div class="yui-gc">
+<div class="yui-u first">
+<a href="http://sourceforge.net/" class="logo">Find and develop open source software</a>
+</div>
+<div class="yui-u">
+<div class="search">
+<form action="http://sourceforge.net/search/" method="get" name="searchform" id="searchform">
+<input type="hidden" name="type_of_search" value="soft" />
+<input type="text" class="text clear hint" name="words" id="words" value="enter keyword" />
+<span class="yui-button yui-push-button default"><span class="first-child"><button type="submit" value="Search">Search</button></span></span>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="bd" class="inner-bd">
+<div id="doc4" class="yui-t6">
+<div id="breadcrumbs">
+
+<a href="http://sourceforge.net/">SourceForge.net</a>
+&gt; <a href="http://sourceforge.net/softwaremap/">Find Software</a>
+&gt; <a href="http://sourceforge.net/projects/xmltv/">xmltv</a>
+&gt; SCM Repositories
+
+
+<a href="/viewvc/xmltv/">
+
+
+&gt; xmltv
+
+
+</a>
+
+
+
+<a href="/viewvc/xmltv/xmltv/">
+
+
+&gt; xmltv
+
+
+</a>
+
+
+
+
+&gt; xmltv.dtd
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="project_nav_container">
+<small><div>
+
+<a href="/viewvc/xmltv/xmltv/"><img src="/viewvc-static/images/back_small.png" width="16" height="16" alt="Parent Directory" /> Parent Directory</a>
+
+| <a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log"><img src="/viewvc-static/images/log.png" width="16" height="16" alt="Revision Log" /> Revision Log</a>
+
+
+
+
+</div>
+</small>
+<h1>SCM Repositories - <a href="http://sourceforge.net/projects/xmltv">xmltv</a></h1>
+</div>
+<hr class="clear">
+<div class="yui-b">
+<div id="fad83">
+<!-- DoubleClick Ad Tag -->
+<script type="text/javascript">
+//<![CDATA[
+document.write('<script src="http://ad.doubleclick.net/adj/ostg.sourceforge/pg_viewvc_p88_shortrec;pg=viewvc;tile='+dfp_tile+';tpc=xmltv;ord='+dfp_ord+';sz=1x1?" type="text/javascript"><\/script>');
+dfp_tile++;
+//]]>
+</script>
+<!-- End DoubleClick Ad Tag -->
+</div>
+</div>
+<div id="yui-main">
+<div class="yui-b sfBox">
+<table class="auto">
+
+
+
+<tr>
+<td>Links to HEAD:</td>
+<td>
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=markup">view</a>)
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=annotate">annotate</a>)
+mime-type: 
+</td>
+</tr>
+
+
+
+<tr>
+<td>Sticky Tag:</td>
+<td><form method="get" action="/viewvc/xmltv/xmltv/xmltv.dtd" style="display: inline">
+<div style="display: inline">
+<input type="hidden" name="view" value="log"/>
+
+
+<select name="pathrev" onchange="submit()">
+<option value=""></option>
+
+<optgroup label="Branches">
+
+
+<option>MAIN</option>
+
+
+</optgroup>
+
+<optgroup label="Non-branch tags">
+
+
+<option>Vtest</option>
+
+
+
+<option>V_0_3_1</option>
+
+
+
+<option>V_0_3</option>
+
+
+
+<option>V4_4pre</option>
+
+
+
+<option>V0_5pre2</option>
+
+
+
+<option>V0_5pre1</option>
+
+
+
+<option>V0_5_9</option>
+
+
+
+<option>V0_5_8</option>
+
+
+
+<option>V0_5_7</option>
+
+
+
+<option>V0_5_67</option>
+
+
+
+<option>V0_5_66</option>
+
+
+
+<option>V0_5_65</option>
+
+
+
+<option>V0_5_64</option>
+
+
+
+<option>V0_5_63</option>
+
+
+
+<option>V0_5_62</option>
+
+
+
+<option>V0_5_61</option>
+
+
+
+<option>V0_5_60</option>
+
+
+
+<option>V0_5_6</option>
+
+
+
+<option>V0_5_59</option>
+
+
+
+<option>V0_5_58</option>
+
+
+
+<option>V0_5_57</option>
+
+
+
+<option>V0_5_56</option>
+
+
+
+<option>V0_5_55</option>
+
+
+
+<option>V0_5_54</option>
+
+
+
+<option>V0_5_53</option>
+
+
+
+<option>V0_5_52</option>
+
+
+
+<option>V0_5_51</option>
+
+
+
+<option>V0_5_50</option>
+
+
+
+<option>V0_5_5</option>
+
+
+
+<option>V0_5_49</option>
+
+
+
+<option>V0_5_48</option>
+
+
+
+<option>V0_5_47</option>
+
+
+
+<option>V0_5_46</option>
+
+
+
+<option>V0_5_45</option>
+
+
+
+<option>V0_5_44</option>
+
+
+
+<option>V0_5_43</option>
+
+
+
+<option>V0_5_42</option>
+
+
+
+<option>V0_5_41</option>
+
+
+
+<option>V0_5_40</option>
+
+
+
+<option>V0_5_4</option>
+
+
+
+<option>V0_5_39</option>
+
+
+
+<option>V0_5_38</option>
+
+
+
+<option>V0_5_37</option>
+
+
+
+<option>V0_5_36</option>
+
+
+
+<option>V0_5_35</option>
+
+
+
+<option>V0_5_34</option>
+
+
+
+<option>V0_5_33</option>
+
+
+
+<option>V0_5_32</option>
+
+
+
+<option>V0_5_31</option>
+
+
+
+<option>V0_5_30</option>
+
+
+
+<option>V0_5_3</option>
+
+
+
+<option>V0_5_29</option>
+
+
+
+<option>V0_5_28</option>
+
+
+
+<option>V0_5_27</option>
+
+
+
+<option>V0_5_26</option>
+
+
+
+<option>V0_5_25</option>
+
+
+
+<option>V0_5_24</option>
+
+
+
+<option>V0_5_23</option>
+
+
+
+<option>V0_5_22</option>
+
+
+
+<option>V0_5_21</option>
+
+
+
+<option>V0_5_20</option>
+
+
+
+<option>V0_5_2</option>
+
+
+
+<option>V0_5_19</option>
+
+
+
+<option>V0_5_18</option>
+
+
+
+<option>V0_5_17</option>
+
+
+
+<option>V0_5_16</option>
+
+
+
+<option>V0_5_15</option>
+
+
+
+<option>V0_5_14</option>
+
+
+
+<option>V0_5_13</option>
+
+
+
+<option>V0_5_1</option>
+
+
+
+<option>V0_5</option>
+
+
+
+<option>V0_4_5pre</option>
+
+
+
+<option>V0_4_4</option>
+
+
+
+<option>V0_4_3</option>
+
+
+
+<option>V0_4_2</option>
+
+
+
+<option>V0_4_1</option>
+
+
+
+<option>V0_2_9</option>
+
+
+
+<option>V0_2_8</option>
+
+
+
+<option>V0_2_7</option>
+
+
+
+<option>V0_2_6</option>
+
+
+
+<option>V0_2_5</option>
+
+
+
+<option>V0_2_4</option>
+
+
+
+<option>V0_2_3</option>
+
+
+
+<option>V0_2_2</option>
+
+
+
+<option>V0_2_10</option>
+
+
+
+<option>V0_2_1</option>
+
+
+
+<option>V0_2_0</option>
+
+
+
+<option>V0_1_1</option>
+
+
+
+<option>HEAD</option>
+
+
+</optgroup>
+
+</select>
+
+<input type="submit" value="Set" />
+</div>
+</form>
+
+</td>
+</tr>
+</table>
+ 
+
+
+</div>
+</div>
+<hr class="clear">
+<div>
+
+
+
+
+
+
+<div>
+<hr />
+
+<a name="rev1.47"></a>
+<a name="V0_5_67"></a>
+<a name="V0_5_65"></a>
+<a name="V0_5_66"></a>
+<a name="HEAD"></a>
+
+
+Revision <strong>1.47</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.47&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.47">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.47">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.47&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri May  2 07:27:51 2014 UTC</em>
+(17 months, 2 weeks ago)
+by <em>bilbo_uk</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=HEAD"><strong>HEAD</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_65"><strong>V0_5_65</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_66"><strong>V0_5_66</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_67"><strong>V0_5_67</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.46: +14 -5 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.46&amp;r2=1.47">previous 1.46</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">add 'keyword' element to 'programme'
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.46"></a>
+<a name="V0_5_64"></a>
+
+
+Revision <strong>1.46</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.46&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.46">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.46">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.46&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Mon Dec  2 22:29:11 2013 UTC</em>
+(22 months, 2 weeks ago)
+by <em>dekarl</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_64"><strong>V0_5_64</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.45: +10 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.45&amp;r2=1.46">previous 1.45</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Extend documentation in the DTD to mention the references to content on
+metadata sites following a common system.
+
+Discussed at <a href="http://sourceforge.net/p/xmltv/mailman/message/31550993/">http://sourceforge.net/p/xmltv/mailman/message/31550993/</a> the
+implementation is in between the various suggestions.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.45"></a>
+<a name="V0_5_62"></a>
+<a name="V0_5_63"></a>
+
+
+Revision <strong>1.45</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.45&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.45">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.45">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.45&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Jun 10 10:35:24 2012 UTC</em>
+(3 years, 4 months ago)
+by <em>knowledgejunkie</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_62"><strong>V0_5_62</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_63"><strong>V0_5_63</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.44: +3 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.44&amp;r2=1.45">previous 1.44</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Add a lang attribute to review elements
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.44"></a>
+<a name="V0_5_60"></a>
+<a name="V0_5_61"></a>
+<a name="V0_5_59"></a>
+<a name="V0_5_58"></a>
+<a name="V0_5_57"></a>
+
+
+Revision <strong>1.44</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.44&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.44">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.44">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.44&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Apr 10 13:11:06 2010 UTC</em>
+(5 years, 6 months ago)
+by <em>knowledgejunkie</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_57"><strong>V0_5_57</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_58"><strong>V0_5_58</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_59"><strong>V0_5_59</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_60"><strong>V0_5_60</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_61"><strong>V0_5_61</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.43: +5 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.43&amp;r2=1.44">previous 1.43</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Add support for composer and editor roles in credits
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.43"></a>
+
+
+Revision <strong>1.43</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.43&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.43">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.43">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.43&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu Mar 11 06:27:46 2010 UTC</em>
+(5 years, 7 months ago)
+by <em>knowledgejunkie</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.42: +16 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.42&amp;r2=1.43">previous 1.42</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Add a review element for programmes. Reviews must be given as either text, or a URL linking to a review. Optional attributes allow the source and reviewer to be specified.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.42"></a>
+<a name="V0_5_56"></a>
+
+
+Revision <strong>1.42</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.42&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.42">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.42">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.42&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu May  7 00:30:00 2009 UTC</em>
+(6 years, 5 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_56"><strong>V0_5_56</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.41: +3 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.41&amp;r2=1.42">previous 1.41</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">fix spelling error
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.41"></a>
+
+
+Revision <strong>1.41</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.41&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.41">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.41">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.41&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Tue May  5 01:08:58 2009 UTC</em>
+(6 years, 5 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.40: +6 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.40&amp;r2=1.41">previous 1.40</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">allow &quot;billingual&quot; as a valid value for stereo (per Marus Keller's suggestion)
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.40"></a>
+<a name="V0_5_55"></a>
+
+
+Revision <strong>1.40</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.40&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.40">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.40">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.40&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Mon Feb 16 17:32:39 2009 UTC</em>
+(6 years, 8 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_55"><strong>V0_5_55</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.39: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.39&amp;r2=1.40">previous 1.39</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">correct DTD entry for &quot;role&quot;
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.39"></a>
+
+
+Revision <strong>1.39</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.39&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.39">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.39">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.39&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Wed Feb 11 01:27:43 2009 UTC</em>
+(6 years, 8 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.38: +2 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.38&amp;r2=1.39">previous 1.38</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">add Czech and Slovenia to tv_grab_huro.. changes by Christian Vanderndorpe
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.38"></a>
+<a name="V0_5_51"></a>
+<a name="V0_5_50"></a>
+<a name="V0_5_53"></a>
+<a name="V0_5_52"></a>
+<a name="V0_5_54"></a>
+
+
+Revision <strong>1.38</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.38&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.38">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.38">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.38&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 20:03:47 2007 UTC</em>
+(7 years, 11 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_50"><strong>V0_5_50</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_51"><strong>V0_5_51</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_52"><strong>V0_5_52</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_53"><strong>V0_5_53</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_54"><strong>V0_5_54</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.37: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.37&amp;r2=1.38">previous 1.37</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">fix star-rating in DTD
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.37"></a>
+
+
+Revision <strong>1.37</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.37&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.37">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.37">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.37&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 00:21:31 2007 UTC</em>
+(7 years, 11 months ago)
+by <em>knowledgejunkie</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.36: +10 -6 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.36&amp;r2=1.37">previous 1.36</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Updates XMLTV DTD to support multiple star-rating elements within a programme element. Adds a description of the star-rating element's new system attribute and a simple example of flagging a programme as recommended. Ensures all lines in the DTD are no longer than 80 characters.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.36"></a>
+
+
+Revision <strong>1.36</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.36&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.36">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.36">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.36&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu Nov  1 05:16:10 2007 UTC</em>
+(7 years, 11 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.35: +3 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.35&amp;r2=1.36">previous 1.35</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">add system attribute  to &lt;star-ratings&gt; and allow multiple star-ratings while keeping backward capability.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.35"></a>
+
+
+Revision <strong>1.35</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.35&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.35">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.35">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.35&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu Oct 25 18:48:12 2007 UTC</em>
+(7 years, 11 months ago)
+by <em>knowledgejunkie</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.34: +5 -4 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.34&amp;r2=1.35">previous 1.34</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Adds 'deaf-signed' type to subtitles element
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.34"></a>
+<a name="V0_5_46"></a>
+<a name="V0_5_47"></a>
+<a name="V0_5_44"></a>
+<a name="V0_5_45"></a>
+<a name="V0_5_43"></a>
+<a name="V0_5_48"></a>
+<a name="V0_5_49"></a>
+
+
+Revision <strong>1.34</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.34&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.34">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.34">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.34&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Feb  3 19:45:57 2006 UTC</em>
+(9 years, 8 months ago)
+by <em>mattiasholmlund</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_43"><strong>V0_5_43</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_44"><strong>V0_5_44</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_45"><strong>V0_5_45</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_46"><strong>V0_5_46</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_47"><strong>V0_5_47</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_48"><strong>V0_5_48</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_49"><strong>V0_5_49</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.33: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.33&amp;r2=1.34">previous 1.33</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Allow a quality-element inside a video element
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.33"></a>
+<a name="V0_5_42"></a>
+<a name="V0_5_41"></a>
+
+
+Revision <strong>1.33</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.33&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.33">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.33">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.33&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Nov  6 04:53:30 2005 UTC</em>
+(9 years, 11 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_41"><strong>V0_5_41</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_42"><strong>V0_5_42</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.32: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.32&amp;r2=1.33">previous 1.32</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">allow &quot;dolby digital&quot; as a value for &quot;stereo&quot;
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.32"></a>
+
+
+Revision <strong>1.32</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.32&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.32">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.32">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.32&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu Aug  4 04:30:03 2005 UTC</em>
+(10 years, 2 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.31: +5 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.31&amp;r2=1.32">previous 1.31</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">add {video}{quality} tag.
+modify tv_grab_na_dd to set {quality} and {aspect} on dd {hdtv} parameter
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.31"></a>
+
+
+Revision <strong>1.31</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.31&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.31">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.31">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.31&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Mon Jul  4 15:56:55 2005 UTC</em>
+(10 years, 3 months ago)
+by <em>rmeden</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.30: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.30&amp;r2=1.31">previous 1.30</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">allow &quot;dolby&quot; as a valid &quot;stereo&quot; value.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.30"></a>
+<a name="V0_5_40"></a>
+<a name="V0_5_33"></a>
+<a name="V0_5_37"></a>
+<a name="V0_5_36"></a>
+<a name="V0_5_35"></a>
+<a name="V0_5_34"></a>
+<a name="V0_5_39"></a>
+<a name="V0_5_38"></a>
+
+
+Revision <strong>1.30</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.30&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.30">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.30">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.30&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Apr 16 18:50:48 2004 UTC</em>
+(11 years, 6 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_33"><strong>V0_5_33</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_34"><strong>V0_5_34</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_35"><strong>V0_5_35</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_36"><strong>V0_5_36</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_37"><strong>V0_5_37</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_38"><strong>V0_5_38</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_39"><strong>V0_5_39</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_40"><strong>V0_5_40</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.29: +4 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.29&amp;r2=1.30">previous 1.29</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Make it clear tat empty text elements are usually meaningless.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.29"></a>
+<a name="V0_5_32"></a>
+
+
+Revision <strong>1.29</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.29&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.29">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.29">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.29&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Wed Mar 31 18:22:18 2004 UTC</em>
+(11 years, 6 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_32"><strong>V0_5_32</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.28: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.28&amp;r2=1.29">previous 1.28</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">&lt;episode-num&gt; can now be repeated.  This is a backwards-incompatible
+change for users of XMLTV.pm (it's now a list reference) and anyone
+reading xmltv files.  However the new files are a superset of the old
+ones, so it does not break existing data.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.28"></a>
+<a name="V0_5_31"></a>
+<a name="V0_5_30"></a>
+<a name="V0_5_26"></a>
+<a name="V0_5_27"></a>
+<a name="V0_5_28"></a>
+<a name="V0_5_29"></a>
+
+
+Revision <strong>1.28</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.28&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.28">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.28">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.28&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Dec 14 09:44:11 2003 UTC</em>
+(11 years, 10 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_26"><strong>V0_5_26</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_27"><strong>V0_5_27</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_28"><strong>V0_5_28</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_29"><strong>V0_5_29</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_30"><strong>V0_5_30</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_31"><strong>V0_5_31</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.27: +2 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.27&amp;r2=1.28">previous 1.27</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">ISO 3316 is 'assembly tools for screws and nuts' apparently - no idea
+why I thought it specified language codes.  Anyway, we should use RFC
+1766.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.27"></a>
+<a name="V0_5_19"></a>
+<a name="V0_5_18"></a>
+<a name="V0_5_17"></a>
+<a name="V0_5_16"></a>
+<a name="V0_5_20"></a>
+<a name="V0_5_21"></a>
+<a name="V0_5_22"></a>
+<a name="V0_5_23"></a>
+<a name="V0_5_24"></a>
+<a name="V0_5_25"></a>
+
+
+Revision <strong>1.27</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.27&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.27">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.27">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.27&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Aug  9 22:40:35 2003 UTC</em>
+(12 years, 2 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_16"><strong>V0_5_16</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_17"><strong>V0_5_17</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_18"><strong>V0_5_18</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_19"><strong>V0_5_19</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_20"><strong>V0_5_20</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_21"><strong>V0_5_21</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_22"><strong>V0_5_22</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_23"><strong>V0_5_23</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_24"><strong>V0_5_24</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_25"><strong>V0_5_25</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.26: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.26&amp;r2=1.27">previous 1.26</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Corrected UT to UTC.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.26"></a>
+
+
+Revision <strong>1.26</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.26&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.26">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.26">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.26&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Mon Jul 14 20:56:56 2003 UTC</em>
+(12 years, 3 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.25: +7 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.25&amp;r2=1.26">previous 1.25</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Clarified the meaning of the 'part number' field in xmltvns
+episode-nums.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.25"></a>
+<a name="V0_5_15"></a>
+<a name="V0_5_14"></a>
+<a name="V0_5_13"></a>
+<a name="V0_5_9"></a>
+
+
+Revision <strong>1.25</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.25&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.25">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.25">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.25&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Mar  8 13:41:10 2003 UTC</em>
+(12 years, 7 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_13"><strong>V0_5_13</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_14"><strong>V0_5_14</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_15"><strong>V0_5_15</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_9"><strong>V0_5_9</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.24: +7 -6 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.24&amp;r2=1.25">previous 1.24</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Clarified that we use DNS-like names for channels not whole URIs.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.24"></a>
+
+
+Revision <strong>1.24</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.24&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.24">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.24">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.24&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Mar  1 11:30:27 2003 UTC</em>
+(12 years, 7 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.23: +6 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.23&amp;r2=1.24">previous 1.23</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Added a note about ordering of &lt;channel&gt; elements.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.23"></a>
+
+
+Revision <strong>1.23</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.23&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.23">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.23">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.23&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Feb 16 12:58:23 2003 UTC</em>
+(12 years, 8 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.22: +8 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.22&amp;r2=1.23">previous 1.22</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Clarified the meaning of start and stop, that they are a half-closed
+interval.  This is what everybody knew anyway, but it's just as well
+to have it in writing.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.22"></a>
+<a name="V0_5_8"></a>
+
+
+Revision <strong>1.22</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.22&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.22">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.22">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.22&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Feb 15 10:15:09 2003 UTC</em>
+(12 years, 8 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_8"><strong>V0_5_8</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.21: +4 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.21&amp;r2=1.22">previous 1.21</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Clarified the meaning of 'width' and 'height' attributes in &lt;icon&gt;.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.21"></a>
+<a name="V0_5_7"></a>
+
+
+Revision <strong>1.21</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.21&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.21">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.21">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.21&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Feb  2 18:09:38 2003 UTC</em>
+(12 years, 8 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_7"><strong>V0_5_7</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.20: +14 -7 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.20&amp;r2=1.21">previous 1.20</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Small change to the file format: newlines in element content are not
+allowed except for &lt;desc&gt;, &lt;premiere&gt; and &lt;last-chance&gt; elements (these
+contain a 'paragraph' of text).  Changed XMLTV.pm.in to check this.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.20"></a>
+
+
+Revision <strong>1.20</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.20&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.20">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.20">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.20&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Feb  2 17:14:19 2003 UTC</em>
+(12 years, 8 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.19: +5 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.19&amp;r2=1.20">previous 1.19</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Fixed the version numbering.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.19"></a>
+<a name="V0_5_3"></a>
+<a name="V0_5_2"></a>
+<a name="V0_5_5"></a>
+<a name="V0_5_4"></a>
+<a name="V0_5_6"></a>
+
+
+Revision <strong>1.19</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.19&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.19">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.19">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.19&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sat Sep 28 11:39:17 2002 UTC</em>
+(13 years ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_2"><strong>V0_5_2</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_3"><strong>V0_5_3</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_4"><strong>V0_5_4</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_5"><strong>V0_5_5</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_6"><strong>V0_5_6</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.18: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.18&amp;r2=1.19">previous 1.18</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Spelling change.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.18"></a>
+<a name="V0_5_1"></a>
+
+
+Revision <strong>1.18</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.18&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.18">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.18">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.18&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Sep  1 11:53:50 2002 UTC</em>
+(13 years, 1 month ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5_1"><strong>V0_5_1</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.17: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.17&amp;r2=1.18">previous 1.17</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Updated references to the XMLTV website, and to my email address.  Purged
+all traces of my old userid.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.17"></a>
+<a name="V0_5"></a>
+
+
+Revision <strong>1.17</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.17&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.17">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.17">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.17&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Thu Apr 18 17:06:57 2002 UTC</em>
+(13 years, 6 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5"><strong>V0_5</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.16: +10 -6 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.16&amp;r2=1.17">previous 1.16</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Clarified the meaning of the 'new' element.  The old UK grabber was
+getting it wrong.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.16"></a>
+
+
+Revision <strong>1.16</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.16&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.16">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.16">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.16&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Mar 15 18:47:09 2002 UTC</em>
+(13 years, 7 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.15: +7 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.15&amp;r2=1.16">previous 1.15</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Formatting change for the sake of dtd2latex.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.15"></a>
+<a name="V0_4_1"></a>
+<a name="V0_4_2"></a>
+<a name="V0_4_3"></a>
+<a name="V0_4_4"></a>
+<a name="V0_4_5pre"></a>
+<a name="V4_4pre"></a>
+<a name="V0_5pre1"></a>
+<a name="V0_5pre2"></a>
+<a name="Vtest"></a>
+
+
+Revision <strong>1.15</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.15&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.15">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.15">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.15&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Wed Dec 19 17:19:01 2001 UTC</em>
+(13 years, 10 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_4_1"><strong>V0_4_1</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_4_2"><strong>V0_4_2</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_4_3"><strong>V0_4_3</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_4_4"><strong>V0_4_4</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_4_5pre"><strong>V0_4_5pre</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5pre1"><strong>V0_5pre1</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_5pre2"><strong>V0_5pre2</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V4_4pre"><strong>V4_4pre</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=Vtest"><strong>Vtest</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.14: +3 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.14&amp;r2=1.15">previous 1.14</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Bumped version number reflecting the inclusion of channels; allowed
+channels to have icons.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.14"></a>
+
+
+Revision <strong>1.14</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.14&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.14">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.14">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.14&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Tue Dec 11 18:18:10 2001 UTC</em>
+(13 years, 10 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.13: +99 -47 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.13&amp;r2=1.14">previous 1.13</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Merged together the channels.dtd and xmltv.dtd file formats, so a
+single XML file gives both programmes and channels (with channels
+listed first).  This has meant changing most programs which read or
+write these formats (although the old tv.xml files will continue to
+work).  I took the opportunity to rewrite XMLTV.pm so it inputs and
+outputs all the different parts of the file format, although I'll
+probably need to rewrite it again for speed.
+
+XMLTV.pm now provides read_data() and write_data() routines which deal
+with credits, channels and programmes in one go.  For lazy writing of
+programmes you can use the XMLTV::Writer interface.
+
+Getlistings_uk_ananova needed changing to handle the fact that
+channels are written in the same file and _before_ any programe
+details.  Also for the new cleaned-up XMLTV.pm interface which insists
+on multivalued [ text, language ] pairs.  Added some new channels
+which have appeared in the UK since the last update.
+
+Listings_to_latex and sort_listings were rewritten to use XMLTV.pm
+instead of XML::DOM.
+
+Pick_cgi is probably *BROKEN* although I have made some fixes for
+multivalued text-with-language.  I will fix it ASAP, I just didn't
+want to wait any longer to get code out there.
+
+Fixes to getlistings_na to comply with the old file format - but _not_
+yet to write channels and programmes in the same file.  That is still
+todo.
+
+Small fixes to ZapListings.pm - not related to the xmltv.dtd
+reorganization.
+
+Added some test files and a test_xmltv_module program (which should
+behave like cat(1) if the code is correct), but a proper automated
+test suite remains to be done.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.13"></a>
+<a name="V_0_3_1"></a>
+
+
+Revision <strong>1.13</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.13&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.13">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.13">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.13&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Tue Nov 20 22:37:19 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V_0_3_1"><strong>V_0_3_1</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.12: +1 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.12&amp;r2=1.13">previous 1.12</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">fixed id keyword
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.12"></a>
+
+
+Revision <strong>1.12</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.12&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.12">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.12">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.12&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Tue Nov 20 15:25:15 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.11: +12 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.11&amp;r2=1.12">previous 1.11</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">added icon elements to programmes, ratings and star-ratings
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.11"></a>
+<a name="V_0_3"></a>
+
+
+Revision <strong>1.11</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.11&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.11">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.11">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.11&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Mon Nov 12 22:46:05 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V_0_3"><strong>V_0_3</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.10: +1 -12 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.10&amp;r2=1.11">previous 1.10</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">removed \$Log entries as per xmltv-devel mailing list discussion
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.10"></a>
+
+
+Revision <strong>1.10</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.10&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.10">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.10">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.10&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Nov 11 22:30:20 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.9: +7 -0 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.9&amp;r2=1.10">previous 1.9</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">added \$Id \$ as approprate
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.9"></a>
+
+
+Revision <strong>1.9</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.9&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.9">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.9">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.9&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Nov 11 16:44:19 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.8: +7 -1 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.8&amp;r2=1.9">previous 1.8</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Whoops, just realized that the last changelog message would itself get
+keyword-expanded, causing no end of confusion.  I had to perform some
+emergency censorship of funny dollar signs.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.8"></a>
+
+
+Revision <strong>1.8</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.8&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.8">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.8">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.8&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Sun Nov 11 16:41:05 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>epaepa</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+<br />Changes since <strong>1.7: +2 -0 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.7&amp;r2=1.8">previous 1.7</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">Rearranged (or added) comments at the start of each file, so the
+description is near the top and the changelog near the bottom.  Added
+$Log: $ lines to get an automatically updated changelog from now on; I
+hope it works.
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.7"></a>
+<a name="V0_2_10"></a>
+
+
+Revision <strong>1.7</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.7&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.7">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.7">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.7&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:28:14 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_10"><strong>V0_2_10</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.6: +16 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.6&amp;r2=1.7">previous 1.6</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.2.10
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.6"></a>
+<a name="V0_2_9"></a>
+
+
+Revision <strong>1.6</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.6&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.6">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.6">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.6&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:25:43 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_9"><strong>V0_2_9</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.5: +41 -7 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.5&amp;r2=1.6">previous 1.5</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.2.9
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.5"></a>
+<a name="V0_2_8"></a>
+
+
+Revision <strong>1.5</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.5&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.5">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.5">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.5&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:24:19 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_8"><strong>V0_2_8</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.4: +61 -3 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.4&amp;r2=1.5">previous 1.4</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.2.8
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.4"></a>
+<a name="V0_2_2"></a>
+<a name="V0_2_3"></a>
+<a name="V0_2_1"></a>
+<a name="V0_2_6"></a>
+<a name="V0_2_7"></a>
+<a name="V0_2_4"></a>
+<a name="V0_2_5"></a>
+
+
+Revision <strong>1.4</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.4&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.4">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.4">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.4&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:13:04 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_1"><strong>V0_2_1</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_2"><strong>V0_2_2</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_3"><strong>V0_2_3</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_4"><strong>V0_2_4</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_5"><strong>V0_2_5</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_6"><strong>V0_2_6</strong></a>,
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_7"><strong>V0_2_7</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.3: +2 -2 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.3&amp;r2=1.4">previous 1.3</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.2.1
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.3"></a>
+<a name="V0_2_0"></a>
+
+
+Revision <strong>1.3</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.3&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.3">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.3">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.3&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:09:30 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_2_0"><strong>V0_2_0</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.2: +164 -39 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.2&amp;r2=1.3">previous 1.2</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.2.0
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.2"></a>
+<a name="V0_1_1"></a>
+
+
+Revision <strong>1.2</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.2&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.2">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.2">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.2&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 18:07:18 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+<br />CVS Tags:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=V0_1_1"><strong>V0_1_1</strong></a>
+
+
+
+
+
+
+<br />Changes since <strong>1.1: +17 -12 lines</strong>
+
+
+
+
+
+
+
+
+<br />Diff to <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.1&amp;r2=1.2">previous 1.1</a>
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">xmltv-0.1.1
+</pre>
+</div>
+
+
+
+<div>
+<hr />
+
+<a name="rev1.1"></a>
+
+
+Revision <strong>1.1</strong> -
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.1&amp;view=markup">view</a>)
+
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?revision=1.1">download</a>)
+
+(<a href="/viewvc/xmltv/xmltv/xmltv.dtd?annotate=1.1">annotate</a>)
+
+
+
+- <a href="/viewvc/xmltv/xmltv/xmltv.dtd?r1=1.1&amp;view=log">[select for diffs]</a>
+
+
+
+
+<br />
+
+<em>Fri Nov  2 17:58:43 2001 UTC</em>
+(13 years, 11 months ago)
+by <em>jveldhuis</em>
+
+
+<br />Branch:
+
+<a href="/viewvc/xmltv/xmltv/xmltv.dtd?view=log&amp;pathrev=MAIN"><strong>MAIN</strong></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre class="vc_log">initial revision
+</pre>
+</div>
+
+ 
+
+
+
+ <div class="sfBox">
+<hr class="clear"/>
+<a name="diff"></a>
+This form allows you to request diffs between any two revisions of this file.
+For each of the two "sides" of the diff,
+
+select a symbolic revision name using the selection box, or choose
+'Use Text Field' and enter a numeric revision.
+
+<form method="get" action="/viewvc/xmltv/xmltv/xmltv.dtd" id="diff_select">
+<table cellpadding="2" cellspacing="0" class="auto">
+<tr>
+<td>&nbsp;</td>
+<td>
+
+<input type="hidden" name="view" value="diff"/>
+
+Diffs between
+
+<select name="r1">
+<option value="text" selected="selected">Use Text Field</option>
+
+<option value="1.15:Vtest">Vtest</option>
+
+<option value="1.13:V_0_3_1">V_0_3_1</option>
+
+<option value="1.11:V_0_3">V_0_3</option>
+
+<option value="1.15:V4_4pre">V4_4pre</option>
+
+<option value="1.15:V0_5pre2">V0_5pre2</option>
+
+<option value="1.15:V0_5pre1">V0_5pre1</option>
+
+<option value="1.25:V0_5_9">V0_5_9</option>
+
+<option value="1.22:V0_5_8">V0_5_8</option>
+
+<option value="1.21:V0_5_7">V0_5_7</option>
+
+<option value="1.47:V0_5_67">V0_5_67</option>
+
+<option value="1.47:V0_5_66">V0_5_66</option>
+
+<option value="1.47:V0_5_65">V0_5_65</option>
+
+<option value="1.46:V0_5_64">V0_5_64</option>
+
+<option value="1.45:V0_5_63">V0_5_63</option>
+
+<option value="1.45:V0_5_62">V0_5_62</option>
+
+<option value="1.44:V0_5_61">V0_5_61</option>
+
+<option value="1.44:V0_5_60">V0_5_60</option>
+
+<option value="1.19:V0_5_6">V0_5_6</option>
+
+<option value="1.44:V0_5_59">V0_5_59</option>
+
+<option value="1.44:V0_5_58">V0_5_58</option>
+
+<option value="1.44:V0_5_57">V0_5_57</option>
+
+<option value="1.42:V0_5_56">V0_5_56</option>
+
+<option value="1.40:V0_5_55">V0_5_55</option>
+
+<option value="1.38:V0_5_54">V0_5_54</option>
+
+<option value="1.38:V0_5_53">V0_5_53</option>
+
+<option value="1.38:V0_5_52">V0_5_52</option>
+
+<option value="1.38:V0_5_51">V0_5_51</option>
+
+<option value="1.38:V0_5_50">V0_5_50</option>
+
+<option value="1.19:V0_5_5">V0_5_5</option>
+
+<option value="1.34:V0_5_49">V0_5_49</option>
+
+<option value="1.34:V0_5_48">V0_5_48</option>
+
+<option value="1.34:V0_5_47">V0_5_47</option>
+
+<option value="1.34:V0_5_46">V0_5_46</option>
+
+<option value="1.34:V0_5_45">V0_5_45</option>
+
+<option value="1.34:V0_5_44">V0_5_44</option>
+
+<option value="1.34:V0_5_43">V0_5_43</option>
+
+<option value="1.33:V0_5_42">V0_5_42</option>
+
+<option value="1.33:V0_5_41">V0_5_41</option>
+
+<option value="1.30:V0_5_40">V0_5_40</option>
+
+<option value="1.19:V0_5_4">V0_5_4</option>
+
+<option value="1.30:V0_5_39">V0_5_39</option>
+
+<option value="1.30:V0_5_38">V0_5_38</option>
+
+<option value="1.30:V0_5_37">V0_5_37</option>
+
+<option value="1.30:V0_5_36">V0_5_36</option>
+
+<option value="1.30:V0_5_35">V0_5_35</option>
+
+<option value="1.30:V0_5_34">V0_5_34</option>
+
+<option value="1.30:V0_5_33">V0_5_33</option>
+
+<option value="1.29:V0_5_32">V0_5_32</option>
+
+<option value="1.28:V0_5_31">V0_5_31</option>
+
+<option value="1.28:V0_5_30">V0_5_30</option>
+
+<option value="1.19:V0_5_3">V0_5_3</option>
+
+<option value="1.28:V0_5_29">V0_5_29</option>
+
+<option value="1.28:V0_5_28">V0_5_28</option>
+
+<option value="1.28:V0_5_27">V0_5_27</option>
+
+<option value="1.28:V0_5_26">V0_5_26</option>
+
+<option value="1.27:V0_5_25">V0_5_25</option>
+
+<option value="1.27:V0_5_24">V0_5_24</option>
+
+<option value="1.27:V0_5_23">V0_5_23</option>
+
+<option value="1.27:V0_5_22">V0_5_22</option>
+
+<option value="1.27:V0_5_21">V0_5_21</option>
+
+<option value="1.27:V0_5_20">V0_5_20</option>
+
+<option value="1.19:V0_5_2">V0_5_2</option>
+
+<option value="1.27:V0_5_19">V0_5_19</option>
+
+<option value="1.27:V0_5_18">V0_5_18</option>
+
+<option value="1.27:V0_5_17">V0_5_17</option>
+
+<option value="1.27:V0_5_16">V0_5_16</option>
+
+<option value="1.25:V0_5_15">V0_5_15</option>
+
+<option value="1.25:V0_5_14">V0_5_14</option>
+
+<option value="1.25:V0_5_13">V0_5_13</option>
+
+<option value="1.18:V0_5_1">V0_5_1</option>
+
+<option value="1.17:V0_5">V0_5</option>
+
+<option value="1.15:V0_4_5pre">V0_4_5pre</option>
+
+<option value="1.15:V0_4_4">V0_4_4</option>
+
+<option value="1.15:V0_4_3">V0_4_3</option>
+
+<option value="1.15:V0_4_2">V0_4_2</option>
+
+<option value="1.15:V0_4_1">V0_4_1</option>
+
+<option value="1.6:V0_2_9">V0_2_9</option>
+
+<option value="1.5:V0_2_8">V0_2_8</option>
+
+<option value="1.4:V0_2_7">V0_2_7</option>
+
+<option value="1.4:V0_2_6">V0_2_6</option>
+
+<option value="1.4:V0_2_5">V0_2_5</option>
+
+<option value="1.4:V0_2_4">V0_2_4</option>
+
+<option value="1.4:V0_2_3">V0_2_3</option>
+
+<option value="1.4:V0_2_2">V0_2_2</option>
+
+<option value="1.7:V0_2_10">V0_2_10</option>
+
+<option value="1.4:V0_2_1">V0_2_1</option>
+
+<option value="1.3:V0_2_0">V0_2_0</option>
+
+<option value="1.2:V0_1_1">V0_1_1</option>
+
+<option value="1.47:MAIN">MAIN</option>
+
+<option value="1.47:HEAD">HEAD</option>
+
+</select>
+<input type="text" size="12" name="tr1"
+value="1.47"
+onchange="document.getElementById('diff_select').r1.selectedIndex=0" />
+
+and
+
+<select name="r2">
+<option value="text" selected="selected">Use Text Field</option>
+
+<option value="1.15:Vtest">Vtest</option>
+
+<option value="1.13:V_0_3_1">V_0_3_1</option>
+
+<option value="1.11:V_0_3">V_0_3</option>
+
+<option value="1.15:V4_4pre">V4_4pre</option>
+
+<option value="1.15:V0_5pre2">V0_5pre2</option>
+
+<option value="1.15:V0_5pre1">V0_5pre1</option>
+
+<option value="1.25:V0_5_9">V0_5_9</option>
+
+<option value="1.22:V0_5_8">V0_5_8</option>
+
+<option value="1.21:V0_5_7">V0_5_7</option>
+
+<option value="1.47:V0_5_67">V0_5_67</option>
+
+<option value="1.47:V0_5_66">V0_5_66</option>
+
+<option value="1.47:V0_5_65">V0_5_65</option>
+
+<option value="1.46:V0_5_64">V0_5_64</option>
+
+<option value="1.45:V0_5_63">V0_5_63</option>
+
+<option value="1.45:V0_5_62">V0_5_62</option>
+
+<option value="1.44:V0_5_61">V0_5_61</option>
+
+<option value="1.44:V0_5_60">V0_5_60</option>
+
+<option value="1.19:V0_5_6">V0_5_6</option>
+
+<option value="1.44:V0_5_59">V0_5_59</option>
+
+<option value="1.44:V0_5_58">V0_5_58</option>
+
+<option value="1.44:V0_5_57">V0_5_57</option>
+
+<option value="1.42:V0_5_56">V0_5_56</option>
+
+<option value="1.40:V0_5_55">V0_5_55</option>
+
+<option value="1.38:V0_5_54">V0_5_54</option>
+
+<option value="1.38:V0_5_53">V0_5_53</option>
+
+<option value="1.38:V0_5_52">V0_5_52</option>
+
+<option value="1.38:V0_5_51">V0_5_51</option>
+
+<option value="1.38:V0_5_50">V0_5_50</option>
+
+<option value="1.19:V0_5_5">V0_5_5</option>
+
+<option value="1.34:V0_5_49">V0_5_49</option>
+
+<option value="1.34:V0_5_48">V0_5_48</option>
+
+<option value="1.34:V0_5_47">V0_5_47</option>
+
+<option value="1.34:V0_5_46">V0_5_46</option>
+
+<option value="1.34:V0_5_45">V0_5_45</option>
+
+<option value="1.34:V0_5_44">V0_5_44</option>
+
+<option value="1.34:V0_5_43">V0_5_43</option>
+
+<option value="1.33:V0_5_42">V0_5_42</option>
+
+<option value="1.33:V0_5_41">V0_5_41</option>
+
+<option value="1.30:V0_5_40">V0_5_40</option>
+
+<option value="1.19:V0_5_4">V0_5_4</option>
+
+<option value="1.30:V0_5_39">V0_5_39</option>
+
+<option value="1.30:V0_5_38">V0_5_38</option>
+
+<option value="1.30:V0_5_37">V0_5_37</option>
+
+<option value="1.30:V0_5_36">V0_5_36</option>
+
+<option value="1.30:V0_5_35">V0_5_35</option>
+
+<option value="1.30:V0_5_34">V0_5_34</option>
+
+<option value="1.30:V0_5_33">V0_5_33</option>
+
+<option value="1.29:V0_5_32">V0_5_32</option>
+
+<option value="1.28:V0_5_31">V0_5_31</option>
+
+<option value="1.28:V0_5_30">V0_5_30</option>
+
+<option value="1.19:V0_5_3">V0_5_3</option>
+
+<option value="1.28:V0_5_29">V0_5_29</option>
+
+<option value="1.28:V0_5_28">V0_5_28</option>
+
+<option value="1.28:V0_5_27">V0_5_27</option>
+
+<option value="1.28:V0_5_26">V0_5_26</option>
+
+<option value="1.27:V0_5_25">V0_5_25</option>
+
+<option value="1.27:V0_5_24">V0_5_24</option>
+
+<option value="1.27:V0_5_23">V0_5_23</option>
+
+<option value="1.27:V0_5_22">V0_5_22</option>
+
+<option value="1.27:V0_5_21">V0_5_21</option>
+
+<option value="1.27:V0_5_20">V0_5_20</option>
+
+<option value="1.19:V0_5_2">V0_5_2</option>
+
+<option value="1.27:V0_5_19">V0_5_19</option>
+
+<option value="1.27:V0_5_18">V0_5_18</option>
+
+<option value="1.27:V0_5_17">V0_5_17</option>
+
+<option value="1.27:V0_5_16">V0_5_16</option>
+
+<option value="1.25:V0_5_15">V0_5_15</option>
+
+<option value="1.25:V0_5_14">V0_5_14</option>
+
+<option value="1.25:V0_5_13">V0_5_13</option>
+
+<option value="1.18:V0_5_1">V0_5_1</option>
+
+<option value="1.17:V0_5">V0_5</option>
+
+<option value="1.15:V0_4_5pre">V0_4_5pre</option>
+
+<option value="1.15:V0_4_4">V0_4_4</option>
+
+<option value="1.15:V0_4_3">V0_4_3</option>
+
+<option value="1.15:V0_4_2">V0_4_2</option>
+
+<option value="1.15:V0_4_1">V0_4_1</option>
+
+<option value="1.6:V0_2_9">V0_2_9</option>
+
+<option value="1.5:V0_2_8">V0_2_8</option>
+
+<option value="1.4:V0_2_7">V0_2_7</option>
+
+<option value="1.4:V0_2_6">V0_2_6</option>
+
+<option value="1.4:V0_2_5">V0_2_5</option>
+
+<option value="1.4:V0_2_4">V0_2_4</option>
+
+<option value="1.4:V0_2_3">V0_2_3</option>
+
+<option value="1.4:V0_2_2">V0_2_2</option>
+
+<option value="1.7:V0_2_10">V0_2_10</option>
+
+<option value="1.4:V0_2_1">V0_2_1</option>
+
+<option value="1.3:V0_2_0">V0_2_0</option>
+
+<option value="1.2:V0_1_1">V0_1_1</option>
+
+<option value="1.47:MAIN">MAIN</option>
+
+<option value="1.47:HEAD">HEAD</option>
+
+</select>
+<input type="text" size="12" name="tr2"
+value="1.1"
+onchange="document.getElementById('diff_select').r2.selectedIndex=0" />
+
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+Type of Diff should be a
+<select name="diff_format" onchange="submit()">
+<option value="h" selected="selected">Colored Diff</option>
+<option value="l" >Long Colored Diff</option>
+<option value="f" >Full Colored Diff</option>
+<option value="u" >Unidiff</option>
+<option value="c" >Context Diff</option>
+<option value="s" >Side by Side</option>
+</select>
+<input type="submit" value=" Get Diffs " />
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+
+<form method="get" action="/viewvc/xmltv/xmltv/xmltv.dtd">
+<div>
+<hr />
+<a name="logsort"></a>
+<input type="hidden" name="view" value="log"/>
+Sort log by:
+<select name="logsort" onchange="submit()">
+<option value="cvs" >Not sorted</option>
+<option value="date" selected="selected">Commit date</option>
+<option value="rev" >Revision</option>
+</select>
+<input type="submit" value=" Sort " />
+</div>
+</form>
+
+
+<br />
+</div>
+</div>
+</div>
+<div id="ft">
+<div class="yui-b">
+<div class="yui-gb">
+<div class="yui-u first" style="text-align: center;"> <a href="http://p.sf.net/sourceforge/support">SourceForge Help<a/> </div>
+<div class="yui-u" style="text-align: center;"> <strong><a href="/viewvc-static/help_log.html">ViewVC Help</a></strong> </div>
+<div class="yui-u" style="text-align: center;"> <a href="http://viewvc.tigris.org/">Powered by ViewVC 1.1.6</a> </div>
+</div>
+<p class="copyright">Copyright &copy; 2010 <a title="Network which provides and promotes Open Source software downloads, development, discussion and news." href="http://geek.net">Geeknet, Inc.</a> All rights reserved. <a href="http://p.sf.net/sourceforge/terms">Terms of Use</a></p>
+</div>
+</div>
+</div>
+<!--[if IE]></div><![endif]-->
+<!--[if IE 6]></div><![endif]-->
+<!--[if IE 7]></div><![endif]-->
+</body>
+</html>
+
+

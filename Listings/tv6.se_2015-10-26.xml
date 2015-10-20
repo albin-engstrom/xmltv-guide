@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv
+  SYSTEM 'xmltv.dtd'>
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+	<programme channel="tv6.se" start="20151026013000 +0100" stop="20151026020000 +0100">
+		<title lang="sv">How I Met Your Mother</title>
+		<sub-title lang="sv">Mystery Vs. History</sub-title>
+		<desc lang="sv">Ted går med på att dejta en tjej utan att först ha sökt information om henne på internet. Barney plågar Marshall och Lily för att de ska avslöja sitt barns kön. Kevin försöker utan framgång att vara fördomsfri inför gruppen.</desc>
+		<credits>
+			<director>Pamela Fryman</director>
+			<actor role="Ted Mosby">Josh Radnor</actor>
+			<actor role="Tracy McConnell">Cristin Milioti</actor>
+			<actor role="Narrator">Bob Saget</actor>
+			<actor role="Robin Scherbatsky">Cobie Smulders</actor>
+			<actor role="Barney Stinson">Neil Patrick Harris</actor>
+			<actor role="Lily Aldrin">Alyson Hannigan</actor>
+			<actor role="Marshall Eriksen">Jason Segel</actor>
+			<actor>Kal Penn</actor>
+			<actor>Ray Wise</actor>
+			<actor>Amber Stevens</actor>
+			<actor>Eleanor Seigler</actor>
+			<actor>Rachel Sterling</actor>
+			<actor>Drew Droege</actor>
+			<writer>Chuck Tatham</writer>
+		</credits>
+		<date>2005</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75760&amp;seasonid=468478&amp;id=4179645&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75760</episode-num>
+		<episode-num system="xmltv_ns">6 . 5 .</episode-num>
+		<episode-num system="onscreen">Del 6 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026020000 +0100" stop="20151026022500 +0100">
+		<title lang="sv">2 1/2 män</title>
+		<sub-title lang="sv">Four Balls, Two Bats and One Mitt</sub-title>
+		<desc lang="sv">I dagens avsnitt möter vi bland annat Alan och Lyndsey, som försöker sätta krydda på sitt sexliv. 3:23</desc>
+		<credits>
+			<director>James Widdoes</director>
+			<actor role="Rose">Melanie Lynskey</actor>
+			<actor role="Herb Melnick">Ryan Stiles</actor>
+			<actor role="Chelsea/Nina/Suzanne/Tina">Jennifer Taylor</actor>
+			<actor role="Kandi">April Bowlby</actor>
+			<actor role="Evelyn Harper">Holland Taylor</actor>
+			<actor role="Danielle Stewert">Brooke Shields</actor>
+			<actor role="Mia">Emmanuelle Vaugier</actor>
+			<actor role="Berta">Conchata Ferrell</actor>
+			<actor role="Eldridge McElroy">Graham Patrick Martin</actor>
+			<actor role="Judith">Marin Hinkle</actor>
+			<actor role="Marty">Carl Reiner</actor>
+			<actor role="Dr. Linda Freeman">Jane Lynch</actor>
+			<actor role="Kandi">April Bowlby</actor>
+			<actor role="Melissa">Kelly Stables</actor>
+			<actor role="Walden Schmidt">Ashton Kutcher</actor>
+			<actor role="Bridget">Judy Greer</actor>
+			<actor role="Jacob David &quot;Jake&quot; Harper">Angus T. Jones</actor>
+			<actor role="Courtney">Jenny McCarthy</actor>
+			<actor role="Jenny">Amber Tamblyn</actor>
+			<actor role="Alan Harper">Jon Cryer</actor>
+			<actor role="Lyndsey McElroy">Courtney Thorne-Smith</actor>
+			<actor role="Charles &quot;Charlie&quot; Harper">Charlie Sheen</actor>
+			<actor>Sophie Winkleman</actor>
+			<actor>Courtney Thorne-Smith</actor>
+			<actor>Bre Blair</actor>
+			<actor>Chasty Ballesteros</actor>
+			<writer>Eddie Gorodetsky</writer>
+			<writer>Don Reo</writer>
+			<writer>Jim Patterson</writer>
+		</credits>
+		<date>2003</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=72227&amp;seasonid=494381&amp;id=4406699&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/72227</episode-num>
+		<episode-num system="xmltv_ns">9 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 10</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.8 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026022500 +0100" stop="20151026025500 +0100">
+		<title lang="sv">Family Guy</title>
+		<sub-title lang="sv">Death has a Shadow</sub-title>
+		<desc lang="sv">Trots stränga order från Louis super Peter alldeles för mycket på sin polares svensexa och blir till följd av sin baksmälla också sparkad från jobbet. .</desc>
+		<credits>
+			<director>Peter Shin</director>
+			<actor>Anne Hathaway</actor>
+			<actor role="Chris Griffin">Seth Green</actor>
+			<actor role="Adam West">Adam West</actor>
+			<actor>Ashley Tisdale</actor>
+			<actor role="Meg Griffin #2">Mila Kunis</actor>
+			<actor role="Peter Griffin|Stewie Griffin|Brian Griffin|Glenn Quagmire|Tom Tucker|Jake Tucker|Carter Pewterschmidt|Mickey McFinnigan|O'Brian|Dr. Elmer Hartman|Seamus|Jasper|Kevin Swanson|Jesus|God">Seth MacFarlane</actor>
+			<actor role="Anna">Amanda Bynes</actor>
+			<actor role="Meg Griffin">Lacey Chabert</actor>
+			<actor role="Cleveland Brown">Mike Henry</actor>
+			<actor role="Lois Griffin|Loretta Brown|Tricia Takanawa">Alex Borstein</actor>
+			<actor>Butch Hartman</actor>
+			<actor>Carlos Alazraqui</actor>
+			<actor>Frank Welker</actor>
+			<actor>Fred Tatasciore</actor>
+			<actor>Joey Slotnick</actor>
+			<actor>Lori Alan</actor>
+			<actor>Phil LaMarr</actor>
+			<actor>Wally Wingert</actor>
+			<actor>Billy West</actor>
+			<actor>Pat Summerall</actor>
+			<writer>Seth MacFarlane</writer>
+		</credits>
+		<date>1999</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75978&amp;seasonid=9512&amp;id=181115&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75978</episode-num>
+		<episode-num system="xmltv_ns">0 . 0 .</episode-num>
+		<episode-num system="onscreen">Del 1 säsong 1</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.1 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026025500 +0100" stop="20151026042500 +0100">
+		<title lang="sv">Heroes Reborn</title>
+		<sub-title lang="sv">Brave New World</sub-title>
+		<desc lang="sv">Under den nya världsordningen jagas hjältar av folk med onda avsikter, bland andra Luke och Joanne Collins, som vill ta revansch efter att ha förlorat sin son.</desc>
+		<credits>
+			<director>Matt Shakman</director>
+			<actor role="Luke Collins">Zachary Levi</actor>
+			<actor role="Noah Bennet">Jack Coleman</actor>
+			<actor role="Quentin">Henry Zebrowski</actor>
+			<actor role="Erica">Rya Kihlstedt</actor>
+			<actor role="Tommy">Robbie Kay</actor>
+			<actor role="Molly">Francesca Eastwood</actor>
+			<actor role="Carlos">Ryan Guzman</actor>
+			<actor role="Marina">Danika Yarosh</actor>
+			<actor role="Joanne">Judith Shekoni</actor>
+			<actor role="Miko Otomo">Kiki Sukezane</actor>
+			<actor role="Emily">Gatlin Green</actor>
+			<actor>Jimmy Jean-Louis</actor>
+			<actor>Carlos Lacámara</actor>
+			<actor>Toru Uchikado</actor>
+			<actor>Hiro Kanagawa</actor>
+			<actor>Marco Grazzini</actor>
+			<actor>Lucius Hoyos</actor>
+			<actor>Eve Harlow</actor>
+			<actor>Peter Mooney</actor>
+			<actor>Krista Bridges</actor>
+			<actor>Marianne Farley</actor>
+			<actor>Nesta Cooper</actor>
+			<actor>Pruitt Taylor Vince</actor>
+			<writer>Tim Kring</writer>
+		</credits>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Fantasy</category>
+		<category lang="en">Mini</category>
+		<category lang="en">Sci-Fi</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=279201&amp;seasonid=626831&amp;id=5258920&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/279201</episode-num>
+		<episode-num system="xmltv_ns">0 . 0 .</episode-num>
+		<episode-num system="onscreen">Del 1 säsong 1</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026042500 +0100" stop="20151026045000 +0100">
+		<title lang="sv">Brooklyn Nine-Nine</title>
+		<sub-title lang="sv">Johnny and Dora</sub-title>
+		<desc lang="sv">Jake och Amy deltar i ett spaningsuppdrag och får falsk identitet för att kunna avslöja kommunens mest ökända identitetstjuv. Poliserna blir sedan upprörda efter en överraskande uppsägning.</desc>
+		<credits>
+			<director>Dean Holland</director>
+			<actor role="Charles Boyle">Joe Lo Truglio</actor>
+			<actor role="Gina Linetti">Chelsea Peretti</actor>
+			<actor role="Terry Jeffords">Terry Crews</actor>
+			<actor role="Rosa Diaz">Stephanie Beatriz</actor>
+			<actor role="Amy Santiago">Melissa Fumero</actor>
+			<actor role="Captain Ray Holt">Andre Braugher</actor>
+			<actor role="Jake Peralta">Andy Samberg</actor>
+			<actor>Nick Cannon</actor>
+			<actor>Kyra Sedgwick</actor>
+			<writer>Luke Del Tredici</writer>
+		</credits>
+		<date>2013</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=269586&amp;seasonid=590744&amp;id=5199337&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/269586</episode-num>
+		<episode-num system="xmltv_ns">1 . 22 .</episode-num>
+		<episode-num system="onscreen">Del 23 säsong 2</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>7.3 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026045000 +0100" stop="20151026051500 +0100">
+		<title lang="sv">American Dad</title>
+		<desc lang="sv">Hayley och Jeff åker iväg för att gifta sig och Stan erbjuder 50 000 dollar till den som kan stoppa dem - vilket får hela staden att engagera sig.</desc>
+		<credits>
+			<actor>Stan Smith</actor>
+			<actor>Francine Smith</actor>
+			<actor>Hayley Smith</actor>
+			<actor>Klaus</actor>
+		</credits>
+		<date>2007</date>
+		<category lang="en">series</category>
+		<category lang="en">Series</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">6 . 0/19 .</episode-num>
+		<episode-num system="onscreen">Del 1 av 19 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026051500 +0100" stop="20151026053500 +0100">
+		<title lang="sv">American Dad</title>
+		<desc lang="sv">Stan klonar Steve, medan Francine och Stan tävlar om vem som är den bästa föräldern. Samtidigt hittar Roger den bortsprungna bruden och brudgummen - i Thailand.</desc>
+		<credits>
+			<actor>Stan Smith</actor>
+			<actor>Francine Smith</actor>
+			<actor>Hayley Smith</actor>
+			<actor>Klaus</actor>
+		</credits>
+		<date>2007</date>
+		<category lang="en">series</category>
+		<category lang="en">Series</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">6 . 1/21 .</episode-num>
+		<episode-num system="onscreen">Del 2 av 21 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026053500 +0100" stop="20151026055900 +0100">
+		<title lang="sv">Cops</title>
+		<sub-title lang="sv">First Respond</sub-title>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Reality</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=74709&amp;seasonid=474035&amp;id=4300585&amp;lid=8</url>
+		<episode-num system="thetvdb.com">series/74709</episode-num>
+		<episode-num system="xmltv_ns">23 . 21 .</episode-num>
+		<episode-num system="onscreen">Del 22 säsong 24</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>7.9 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026060000 +0100" stop="20151026064500 +0100">
+		<title lang="sv">The Vampire Diaries</title>
+		<sub-title lang="sv">The Rager</sub-title>
+		<desc lang="sv">Connor vill avslöja stadens hemligheter och försöker övertala Jeremy att hjälpa honom. Samtidigt har Elena svårt att kontrollera sin ilska när Rebekah är i skolan. På annat håll tar Stefan med sig Elena på en motorcykeltur för att visa att livet fortfarande kan vara roligt.</desc>
+		<credits>
+			<director>Lance Anderson</director>
+			<actor role="Caroline Forbes">Candice Accola</actor>
+			<actor role="Jenna Sommers">Sara Canning</actor>
+			<actor role="Alaric Saltzman">Matthew Davis</actor>
+			<actor role="Matt Donovan">Zach Roerig</actor>
+			<actor role="Bonnie Bennett">Katerina Graham</actor>
+			<actor role="Klaus Mikaelson">Joseph Morgan</actor>
+			<actor role="Elena Gilbert/Katherine Pierce">Nina Dobrev</actor>
+			<actor role="Jo Laughlin">Jodi Lyn O'Keefe</actor>
+			<actor role="Liz Forbes">Marguerite MacIntyre</actor>
+			<actor role="Elijah Mikaelson">Daniel Gillies</actor>
+			<actor role="Rebekah Mikaelson">Claire Holt</actor>
+			<actor role="Tyler Lockwood">Michael Trevino</actor>
+			<actor role="Jeremy Gilbert">Steven R. McQueen</actor>
+			<actor role="Damon Salvatore">Ian Somerhalder</actor>
+			<actor role="Enzo">Michael Malarkey</actor>
+			<actor role="Meredith Fell">Torrey DeVitto</actor>
+			<actor role="Stefan Salvatore">Paul Wesley</actor>
+			<actor>Todd Williams</actor>
+			<actor>Torrey DeVitto</actor>
+			<actor>Grace Phillips</actor>
+			<actor>Phoebe Tonkin</actor>
+			<writer>Brian Young</writer>
+		</credits>
+		<date>2009</date>
+		<category lang="en">series</category>
+		<category lang="en">Drama</category>
+		<category lang="en">Fantasy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=95491&amp;seasonid=492997&amp;id=4410646&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/95491</episode-num>
+		<episode-num system="xmltv_ns">3 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026064500 +0100" stop="20151026073500 +0100">
+		<title lang="sv">Stargate SG-1</title>
+		<sub-title lang="sv">Memento Mori</sub-title>
+		<desc lang="sv">Momento Mori. Vala hitter sig själv i centrum av stan, utan en blekaste aning om vem hon är.</desc>
+		<credits>
+			<director>Peter DeLuise</director>
+			<actor role="Jacob Carter|Selmac">Carmen Argenziano</actor>
+			<actor role="Richard Woolsey">Robert Picardo</actor>
+			<actor role="Dr./Maj. Janet Fraiser">Teryl Rothery</actor>
+			<actor role="Jonas Quinn">Corin Nemec</actor>
+			<actor role="Dr. Rodney McKay">David Hewlett</actor>
+			<actor role="Dr. Daniel Jackson">Michael Shanks</actor>
+			<actor role="Master Bra'tac">Tony Amendola</actor>
+			<actor role="Gen. George S. Hammond">Don S. Davis</actor>
+			<actor role="Capt./Maj. Samantha Carter">Amanda Tapping</actor>
+			<actor role="Goa'uld Ba'al">Cliff Simon</actor>
+			<actor role="Doci (Leader of the Priors)">Julian Sands</actor>
+			<actor role="Col./Gen. Jack O'Neill">Richard Dean Anderson</actor>
+			<actor role="Tomin (Commander Ori Army)">Tim Guinee</actor>
+			<actor role="Walter Harriman">Gary Jones</actor>
+			<actor role="Sarah Gardner (Goa'uld Osiris)">Anna-Louise Plowman</actor>
+			<actor role="Major Paul Davis">Colin Cunningham</actor>
+			<actor role="Teal'c">Christopher Judge</actor>
+			<actor role="Lt. Col. Cameron Mitchell">Ben Browder</actor>
+			<actor role="Adria">Morena Baccarin</actor>
+			<actor role="Vala Mal Doran">Claudia Black</actor>
+			<actor role="Maj. Gen. Henry &quot;Hank&quot; Landry">Beau Bridges</actor>
+			<actor role="Goa'uld Yu-huang Shang Ti">Vince Crestejo</actor>
+			<actor>Gary Jones</actor>
+			<actor>Patricia Harras</actor>
+			<actor>Peter Benson</actor>
+			<actor>Sean Owen Roberts</actor>
+			<actor>Brian Davies</actor>
+			<actor>Heather Christie</actor>
+			<actor>Adrian Holmes</actor>
+			<actor>Don Stark</actor>
+			<actor>Sonya Salomaa</actor>
+			<actor>Brendan Beiser</actor>
+			<actor>Phillip Mitchell</actor>
+			<writer>Paul Mullie</writer>
+			<writer>Joseph Mallozzi</writer>
+		</credits>
+		<date>1997</date>
+		<category lang="en">series</category>
+		<category lang="en">Fantasy</category>
+		<category lang="en">Sci-Fi</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=72449&amp;seasonid=4148&amp;id=303319&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/72449</episode-num>
+		<episode-num system="xmltv_ns">9 . 7 .</episode-num>
+		<episode-num system="onscreen">Del 8 säsong 10</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026073500 +0100" stop="20151026080000 +0100">
+		<title lang="sv">Våra värsta år</title>
+		<desc lang="sv">Kelly försöker hitta Waldo. .</desc>
+		<credits>
+			<actor role="Al Bundy">Ed O´Neill</actor>
+			<actor role="Peggy Bundy">Katy Sagal</actor>
+			<actor role="Kelly Bundy">Christina Applegate</actor>
+			<actor role="Bud Bundy">David Faustino</actor>
+			<actor role="Marcy Rhoads D´Arcy">Amanda Bearse</actor>
+		</credits>
+		<date>1993</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">7 . 74/211 .</episode-num>
+		<episode-num system="onscreen">Del 75 av 211 säsong 8</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026080000 +0100" stop="20151026083000 +0100">
+		<title lang="sv">Våra värsta år</title>
+		<desc lang="sv">Als gamla fotbollsplan kommer att bli ersatt med en bilaffär och han protesterar. .</desc>
+		<credits>
+			<actor role="Al Bundy">Ed O´Neill</actor>
+			<actor role="Peggy Bundy">Katy Sagal</actor>
+			<actor role="Kelly Bundy">Christina Applegate</actor>
+			<actor role="Bud Bundy">David Faustino</actor>
+			<actor role="Marcy Rhoads D´Arcy">Amanda Bearse</actor>
+		</credits>
+		<date>1993</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">7 . 75/211 .</episode-num>
+		<episode-num system="onscreen">Del 76 av 211 säsong 8</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026083000 +0100" stop="20151026090000 +0100">
+		<title lang="sv">TV-SHOP</title>
+		<category lang="en">series</category>
+		<category lang="en">Series</category>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026090000 +0100" stop="20151026093000 +0100">
+		<title lang="sv">The King of Queens</title>
+		<sub-title lang="sv">Awed Couple</sub-title>
+		<desc lang="sv">Doug och Carrie blir bjudna på middag och presenteras för värdparets kompisar Marc och Rennie. De visar sig komma bättre överens än med de ursprungliga vännerna...</desc>
+		<credits>
+			<director>Rob Schiller</director>
+			<actor role="Janet Heffernan">Jenny O'Hara</actor>
+			<actor role="Holly Shumpert">Nicole Sullivan</actor>
+			<actor role="Spence Olchin">Patton Oswalt</actor>
+			<actor role="Deacon Palmer">Victor Williams</actor>
+			<actor role="Carrie Heffernan">Leah Remini</actor>
+			<actor role="Himself">Lou Ferrigno</actor>
+			<actor role="Richie Iannucci">Larry Romano</actor>
+			<actor role="Sara Spooner">Lisa Rieffel</actor>
+			<actor role="Doug Heffernan">Kevin James</actor>
+			<actor role="Kelly Palmer">Merrin Dungey</actor>
+			<actor role="Danny Heffernan">Gary Valentine</actor>
+			<actor role="Arthur Spooner">Jerry Stiller</actor>
+			<actor>Dan Kinsella</actor>
+			<actor>Craig Anton</actor>
+			<actor>Suzanne Cryer</actor>
+			<actor>Scott Rabinowitz</actor>
+			<actor>Kate Orsini</actor>
+			<actor>Christopher Comes</actor>
+			<actor>Michele Nordin</actor>
+			<actor>Alan Levine</actor>
+			<actor>Erica Shaffer</actor>
+			<writer>David Bickel</writer>
+		</credits>
+		<date>1998</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=73641&amp;seasonid=6143&amp;id=122188&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/73641</episode-num>
+		<episode-num system="xmltv_ns">6 . 7 .</episode-num>
+		<episode-num system="onscreen">Del 8 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>7.1 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026093000 +0100" stop="20151026100000 +0100">
+		<title lang="sv">The King of Queens</title>
+		<sub-title lang="sv">Cologne Ranger</sub-title>
+		<desc lang="sv">Doug försöker förgäves övertyga sina kompisar att han inte måste göra allting som Carrie säger.</desc>
+		<credits>
+			<director>Andrew D. Weyman</director>
+			<actor role="Janet Heffernan">Jenny O'Hara</actor>
+			<actor role="Holly Shumpert">Nicole Sullivan</actor>
+			<actor role="Spence Olchin">Patton Oswalt</actor>
+			<actor role="Deacon Palmer">Victor Williams</actor>
+			<actor role="Carrie Heffernan">Leah Remini</actor>
+			<actor role="Himself">Lou Ferrigno</actor>
+			<actor role="Richie Iannucci">Larry Romano</actor>
+			<actor role="Sara Spooner">Lisa Rieffel</actor>
+			<actor role="Doug Heffernan">Kevin James</actor>
+			<actor role="Kelly Palmer">Merrin Dungey</actor>
+			<actor role="Danny Heffernan">Gary Valentine</actor>
+			<actor role="Arthur Spooner">Jerry Stiller</actor>
+			<actor>Torrey DeVitto</actor>
+			<actor>Andrea Savage</actor>
+			<actor>Alex Craig Mann</actor>
+			<actor>Shira Scott</actor>
+			<actor>Courtney Weiden</actor>
+			<actor>Peggy Lane O'Rourke</actor>
+			<writer>Rock Reuben</writer>
+		</credits>
+		<date>1998</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=73641&amp;seasonid=6143&amp;id=122189&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/73641</episode-num>
+		<episode-num system="xmltv_ns">6 . 8 .</episode-num>
+		<episode-num system="onscreen">Del 9 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026100000 +0100" stop="20151026103000 +0100">
+		<title lang="sv">My name is Earl</title>
+		<desc lang="sv">När sjukhuset vill bli av med Earl bestämmer sig Randy för att själv ta hand om sin bror.</desc>
+		<credits>
+			<actor role="Earl">Jason Lee</actor>
+			<actor role="Randy">Ethan Suplee</actor>
+			<actor role="Joy">Jamie Pressly</actor>
+			<actor role="Darnell">Eddie Steeples</actor>
+			<actor role="Catalina">Nadine Velazquez</actor>
+		</credits>
+		<date>2007</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">2 . 64 .</episode-num>
+		<episode-num system="onscreen">Del 65 säsong 3</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026103000 +0100" stop="20151026110000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Days of Wine and D'ohses</sub-title>
+		<desc lang="sv">Efter att ha sett sig själv på video bestämmer sig Barney för att sluta dricka alkohol.</desc>
+		<credits>
+			<director>Neil Affleck</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<writer>Dan Castellaneta</writer>
+			<writer>Deb Lacusta</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2729&amp;id=55696&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">10 . 17 .</episode-num>
+		<episode-num system="onscreen">Del 18 säsong 11</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.3 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026110000 +0100" stop="20151026113000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Kill the Alligator and Run</sub-title>
+		<desc lang="sv">När Homer kör över captain Jack, hela Floridas älsklingsalligator, får familjen spendera resten av semestern på flykt från solskensstatens myndigheter.</desc>
+		<credits>
+			<director>Jen Kamerman</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<actor>Joe C.</actor>
+			<actor>Kid Rock</actor>
+			<actor>Charlie Rose</actor>
+			<actor>Diedrich Bader</actor>
+			<actor>Robert Evans</actor>
+			<writer>John Swartzwelder</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2729&amp;id=55697&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">10 . 18 .</episode-num>
+		<episode-num system="onscreen">Del 19 säsong 11</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026113000 +0100" stop="20151026123000 +0100">
+		<title lang="sv">Stargate SG-1</title>
+		<sub-title lang="sv">Company of Thieves</sub-title>
+		<desc lang="sv">Tjuvar. Mitchell försöker infiltrera den Lucianska Alliansen för att kunna rädda medlemmarna i SG-1 i ett möjligt inbördeskrig.</desc>
+		<credits>
+			<director>William Waring</director>
+			<actor role="Jacob Carter|Selmac">Carmen Argenziano</actor>
+			<actor role="Richard Woolsey">Robert Picardo</actor>
+			<actor role="Dr./Maj. Janet Fraiser">Teryl Rothery</actor>
+			<actor role="Jonas Quinn">Corin Nemec</actor>
+			<actor role="Dr. Rodney McKay">David Hewlett</actor>
+			<actor role="Dr. Daniel Jackson">Michael Shanks</actor>
+			<actor role="Master Bra'tac">Tony Amendola</actor>
+			<actor role="Gen. George S. Hammond">Don S. Davis</actor>
+			<actor role="Capt./Maj. Samantha Carter">Amanda Tapping</actor>
+			<actor role="Goa'uld Ba'al">Cliff Simon</actor>
+			<actor role="Doci (Leader of the Priors)">Julian Sands</actor>
+			<actor role="Col./Gen. Jack O'Neill">Richard Dean Anderson</actor>
+			<actor role="Tomin (Commander Ori Army)">Tim Guinee</actor>
+			<actor role="Walter Harriman">Gary Jones</actor>
+			<actor role="Sarah Gardner (Goa'uld Osiris)">Anna-Louise Plowman</actor>
+			<actor role="Major Paul Davis">Colin Cunningham</actor>
+			<actor role="Teal'c">Christopher Judge</actor>
+			<actor role="Lt. Col. Cameron Mitchell">Ben Browder</actor>
+			<actor role="Adria">Morena Baccarin</actor>
+			<actor role="Vala Mal Doran">Claudia Black</actor>
+			<actor role="Maj. Gen. Henry &quot;Hank&quot; Landry">Beau Bridges</actor>
+			<actor role="Goa'uld Yu-huang Shang Ti">Vince Crestejo</actor>
+			<actor>Geoff Redknap</actor>
+			<actor>Martin Christopher</actor>
+			<actor>Matthew Glave</actor>
+			<actor>Eric Steinberg</actor>
+			<actor>Gary Jones</actor>
+			<actor>Adrien Dorval</actor>
+			<actor>Hawthorne James</actor>
+			<actor>Michael Rogers</actor>
+			<actor>Dean Monroe McKenzie</actor>
+			<actor>Joey Aresco</actor>
+			<actor>Scott McNeil</actor>
+			<actor>Morris Chapdelaine</actor>
+			<actor>Sean Campbell</actor>
+			<actor>Timothy Paul Perez</actor>
+			<actor>Rudolf Martin</actor>
+			<writer>Alan McCullough</writer>
+		</credits>
+		<date>1997</date>
+		<category lang="en">series</category>
+		<category lang="en">Fantasy</category>
+		<category lang="en">Sci-Fi</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=72449&amp;seasonid=4148&amp;id=307521&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/72449</episode-num>
+		<episode-num system="xmltv_ns">9 . 8 .</episode-num>
+		<episode-num system="onscreen">Del 9 säsong 10</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026123000 +0100" stop="20151026130000 +0100">
+		<title lang="sv">Jims värld</title>
+		<sub-title lang="sv">The Competition</sub-title>
+		<desc lang="sv">Jim är säker på att vinna den årliga hot dogätartävlingen, men förödmjukas då han besegras av en kortväxt kvinna. Hans problem växer då Andy bestämmer sig för att börja dejta den kvinnliga mästaren.</desc>
+		<credits>
+			<director>Lynn McCracken</director>
+			<actor role="Gracie">Billi Bruno</actor>
+			<actor role="Dana">Kimberly Williams-Paisley</actor>
+			<actor role="Kyle">Conner Rayburn</actor>
+			<actor role="Andy">Larry Joe Campbell</actor>
+			<actor role="Cheryl">Courtney Thorne-Smith</actor>
+			<actor role="Ruby">Taylor Atelian</actor>
+			<actor role="Jim">James Belushi</actor>
+			<actor>Matthew Jones</actor>
+			<actor>Doug Cameron</actor>
+			<actor>Suzy Nakamura</actor>
+			<writer>Daniel Egan</writer>
+		</credits>
+		<date>2001</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75926&amp;seasonid=9454&amp;id=180081&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75926</episode-num>
+		<episode-num system="xmltv_ns">3 . 22 .</episode-num>
+		<episode-num system="onscreen">Del 23 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>7 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026130000 +0100" stop="20151026133000 +0100">
+		<title lang="sv">The King of Queens</title>
+		<sub-title lang="sv">Domestic Disturbance</sub-title>
+		<desc lang="sv">Carrie får löneförhöjning och använder pengarna för att anlita en spansktalande städare.</desc>
+		<credits>
+			<director>Ken Whittingham</director>
+			<actor role="Janet Heffernan">Jenny O'Hara</actor>
+			<actor role="Holly Shumpert">Nicole Sullivan</actor>
+			<actor role="Spence Olchin">Patton Oswalt</actor>
+			<actor role="Deacon Palmer">Victor Williams</actor>
+			<actor role="Carrie Heffernan">Leah Remini</actor>
+			<actor role="Himself">Lou Ferrigno</actor>
+			<actor role="Richie Iannucci">Larry Romano</actor>
+			<actor role="Sara Spooner">Lisa Rieffel</actor>
+			<actor role="Doug Heffernan">Kevin James</actor>
+			<actor role="Kelly Palmer">Merrin Dungey</actor>
+			<actor role="Danny Heffernan">Gary Valentine</actor>
+			<actor role="Arthur Spooner">Jerry Stiller</actor>
+			<actor>Zilah Mendoza</actor>
+			<writer>Tony Sheehan</writer>
+		</credits>
+		<date>1998</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=73641&amp;seasonid=6143&amp;id=122190&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/73641</episode-num>
+		<episode-num system="xmltv_ns">6 . 9 .</episode-num>
+		<episode-num system="onscreen">Del 10 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026133000 +0100" stop="20151026140000 +0100">
+		<title lang="sv">The King of Queens</title>
+		<sub-title lang="sv">Pour Judgment</sub-title>
+		<desc lang="sv">Doug vägrar att ta ett IPS-prov och Carrie beskyller honom för att vara lat och sakna ambitioner.</desc>
+		<credits>
+			<director>Rob Schiller</director>
+			<actor role="Janet Heffernan">Jenny O'Hara</actor>
+			<actor role="Holly Shumpert">Nicole Sullivan</actor>
+			<actor role="Spence Olchin">Patton Oswalt</actor>
+			<actor role="Deacon Palmer">Victor Williams</actor>
+			<actor role="Carrie Heffernan">Leah Remini</actor>
+			<actor role="Himself">Lou Ferrigno</actor>
+			<actor role="Richie Iannucci">Larry Romano</actor>
+			<actor role="Sara Spooner">Lisa Rieffel</actor>
+			<actor role="Doug Heffernan">Kevin James</actor>
+			<actor role="Kelly Palmer">Merrin Dungey</actor>
+			<actor role="Danny Heffernan">Gary Valentine</actor>
+			<actor role="Arthur Spooner">Jerry Stiller</actor>
+			<actor>Shannon Farrara</actor>
+			<actor>Eric Allan Kramer</actor>
+			<actor>Fred Saldone</actor>
+			<actor>Kristina Hayes</actor>
+			<actor>Matt Griesser</actor>
+			<writer>Owen Ellickson</writer>
+		</credits>
+		<date>1998</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=73641&amp;seasonid=6143&amp;id=122191&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/73641</episode-num>
+		<episode-num system="xmltv_ns">6 . 10 .</episode-num>
+		<episode-num system="onscreen">Del 11 säsong 7</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026140000 +0100" stop="20151026143000 +0100">
+		<title lang="sv">Seinfeld</title>
+		<sub-title lang="sv">The Frogger</sub-title>
+		<desc lang="sv">George och Jerry besöker stamstället från ungdomstiden, dagen innan det ska stänga för alltid...</desc>
+		<credits>
+			<director>Andy Ackerman</director>
+			<actor role="Susan Ross">Heidi Swedberg</actor>
+			<actor role="Helen Seinfeld">Liz Sheridan</actor>
+			<actor role="Morty Seinfeld">Barney Martin</actor>
+			<actor role="Estelle Costanza">Estelle Harris</actor>
+			<actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+			<actor role="George Steinbrenner">Larry David</actor>
+			<actor role="Cosmo Kramer">Michael Richards</actor>
+			<actor role="Newman">Wayne Knight</actor>
+			<actor role="George Costanza">Jason Alexander</actor>
+			<actor role="Frank Costanza">Jerry Stiller</actor>
+			<actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+			<actor>John O'Hurley</actor>
+			<actor>Julia Campbell</actor>
+			<actor>Peter Stormare</actor>
+			<actor>Reuven Bar</actor>
+			<actor>Sam Shamshak</actor>
+			<actor>Wayne Wilderson</actor>
+			<actor>Mark Daniel Cade</actor>
+			<actor>Jack Esformes</actor>
+			<actor>Melissa Denton</actor>
+			<actor>Oliver Muirhead</actor>
+			<actor>Drake Bell</actor>
+			<writer>Gregg Kavet</writer>
+			<writer>Andy Robin</writer>
+			<writer>Steve Koren</writer>
+			<writer>Daniel O'Keefe</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=79169&amp;seasonid=16120&amp;id=304233&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/79169</episode-num>
+		<episode-num system="xmltv_ns">8 . 17 .</episode-num>
+		<episode-num system="onscreen">Del 18 säsong 9</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.9 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026143000 +0100" stop="20151026150000 +0100">
+		<title lang="sv">Seinfeld</title>
+		<sub-title lang="sv">The Maid</sub-title>
+		<desc lang="sv">Jerry inleder ett förhållande med sin hemhjälp...</desc>
+		<credits>
+			<director>Andy Ackerman</director>
+			<actor role="Susan Ross">Heidi Swedberg</actor>
+			<actor role="Helen Seinfeld">Liz Sheridan</actor>
+			<actor role="Morty Seinfeld">Barney Martin</actor>
+			<actor role="Estelle Costanza">Estelle Harris</actor>
+			<actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+			<actor role="George Steinbrenner">Larry David</actor>
+			<actor role="Cosmo Kramer">Michael Richards</actor>
+			<actor role="Newman">Wayne Knight</actor>
+			<actor role="George Costanza">Jason Alexander</actor>
+			<actor role="Frank Costanza">Jerry Stiller</actor>
+			<actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+			<actor>Daniel Von Bargen</actor>
+			<actor>Angela Featherstone</actor>
+			<actor>Anthony Crivello</actor>
+			<actor>Markus Flanagan</actor>
+			<actor>Sam Whipple</actor>
+			<actor>Kyle Colerider-Krugh</actor>
+			<actor>Steve Franken</actor>
+			<actor>Davenia McFadden</actor>
+			<actor>Damon Jones</actor>
+			<actor>Chip Chinery</actor>
+			<actor>Colin McClean</actor>
+			<actor>Anthony Mangano</actor>
+			<writer>Alec Berg</writer>
+			<writer>David Mandel</writer>
+			<writer>Jeff Schaffer</writer>
+			<writer>Kit Boss</writer>
+			<writer>Peter Mehlman</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=79169&amp;seasonid=16120&amp;id=304234&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/79169</episode-num>
+		<episode-num system="xmltv_ns">8 . 18 .</episode-num>
+		<episode-num system="onscreen">Del 19 säsong 9</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026150000 +0100" stop="20151026153000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">My Big Fat Geek Wedding</sub-title>
+		<desc lang="sv">Barts rektor och Edna planerar sitt bröllop.</desc>
+		<credits>
+			<director>Mark Kirkland</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<actor>Matt Groening</actor>
+			<writer>Kevin Curran</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2733&amp;id=55782&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">14 . 16 .</episode-num>
+		<episode-num system="onscreen">Del 17 säsong 15</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.1 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026153000 +0100" stop="20151026160000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Catch 'Em If You Can</sub-title>
+		<desc lang="sv">Bart lär de andra skolbarnen att kasta vattenballonger, medan Marge planerar en barnfri resa till Ohio.</desc>
+		<credits>
+			<director>Matthew Nastuk</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<writer>Ian Maxtone-Graham</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2733&amp;id=55783&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">14 . 17 .</episode-num>
+		<episode-num system="onscreen">Del 18 säsong 15</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026160000 +0100" stop="20151026163000 +0100">
+		<title lang="sv">Brooklyn Nine-Nine</title>
+		<sub-title lang="sv">Tactical Village</sub-title>
+		<desc lang="sv">Amy möter sitt ex på en obligatorisk träningskurs med jobbet. Kapten Holt är beroende av ett spel på mobilen och Rosa är sur på Charles som inte har bjudit henne på sitt bröllop.</desc>
+		<credits>
+			<director>Fred Goss</director>
+			<actor role="Charles Boyle">Joe Lo Truglio</actor>
+			<actor role="Gina Linetti">Chelsea Peretti</actor>
+			<actor role="Terry Jeffords">Terry Crews</actor>
+			<actor role="Rosa Diaz">Stephanie Beatriz</actor>
+			<actor role="Amy Santiago">Melissa Fumero</actor>
+			<actor role="Captain Ray Holt">Andre Braugher</actor>
+			<actor role="Jake Peralta">Andy Samberg</actor>
+			<actor>Kyle Bornheimer</actor>
+			<writer>Luke Del Tredici</writer>
+		</credits>
+		<date>2013</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=269586&amp;seasonid=519889&amp;id=4749760&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/269586</episode-num>
+		<episode-num system="xmltv_ns">0 . 18 .</episode-num>
+		<episode-num system="onscreen">Del 19 säsong 1</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026163000 +0100" stop="20151026170000 +0100">
+		<title lang="sv">Brooklyn Nine-Nine</title>
+		<sub-title lang="sv">Fancy Brudgom</sub-title>
+		<desc lang="sv">Charles ber Jake att vara hans &quot;bäste man&quot; på bröllopet. Terry, Amy och Gina börjar med en extrem diet och kapten Holt hjälper Rosa att be om ursäkt - och mena det.</desc>
+		<credits>
+			<director>Victor Nelli Jr.</director>
+			<actor role="Charles Boyle">Joe Lo Truglio</actor>
+			<actor role="Gina Linetti">Chelsea Peretti</actor>
+			<actor role="Terry Jeffords">Terry Crews</actor>
+			<actor role="Rosa Diaz">Stephanie Beatriz</actor>
+			<actor role="Amy Santiago">Melissa Fumero</actor>
+			<actor role="Captain Ray Holt">Andre Braugher</actor>
+			<actor role="Jake Peralta">Andy Samberg</actor>
+			<writer>Laura McCreary</writer>
+		</credits>
+		<date>2013</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=269586&amp;seasonid=519889&amp;id=4749761&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/269586</episode-num>
+		<episode-num system="xmltv_ns">0 . 19 .</episode-num>
+		<episode-num system="onscreen">Del 20 säsong 1</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026170000 +0100" stop="20151026173000 +0100">
+		<title lang="sv">Scrubs</title>
+		<sub-title lang="sv">My Hypocritical Oath</sub-title>
+		<desc lang="sv">JD är kär i en tjej han har träffat på en klubb och vet inte om han ska berätta för henne att hennes pojkvän har gonorré. .</desc>
+		<credits>
+			<director>Craig Zisk</director>
+			<actor role="Todd Quinlan">Robert Maschio</actor>
+			<actor role="Lucy Bennett">Kerry Bishé</actor>
+			<actor role="Dr. Christopher &quot;Chris&quot; Duncan Turk">Donald Faison</actor>
+			<actor role="Dr. Percival &quot;Perry&quot; Ulysses Cox">John C. McGinley</actor>
+			<actor role="Cole McCallister">Dave Franco</actor>
+			<actor role="Drew Suffin">Michael Mosley</actor>
+			<actor role="Dr. Elliot Reid">Sarah Chalke</actor>
+			<actor role="Jordan Sullivan">Christa Miller</actor>
+			<actor role="Dr. John Michael &quot;J.D.&quot; Dorian">Zach Braff</actor>
+			<actor role="Ted Buckland">Sam Lloyd</actor>
+			<actor role="Nurse Carla Espinosa">Judy Reyes</actor>
+			<actor role="Nurse Laverne Roberts">Aloma Wright</actor>
+			<actor role="Dr. Robert &quot;Bob&quot; Kelso">Ken Jenkins</actor>
+			<actor role="Denise Mahoney">Eliza Coupe</actor>
+			<actor role="Keith">Travis Schuldt</actor>
+			<actor role="Dr. Doug Murphy">Johnny Kastl</actor>
+			<actor role="Dr. Molly Clock">Heather Graham</actor>
+			<actor role="The Janitor">Neil Flynn</actor>
+			<actor>Marc D. Wilson</actor>
+			<actor>Chrystee Pharris-Larkins</actor>
+			<actor>Takayo Fischer</actor>
+			<actor>Gregory Hinton</actor>
+			<actor>Monica Allgeier</actor>
+			<writer>Tim Hobert</writer>
+		</credits>
+		<date>2001</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=76156&amp;seasonid=9775&amp;id=184685&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/76156</episode-num>
+		<episode-num system="xmltv_ns">3 . 14 .</episode-num>
+		<episode-num system="onscreen">Del 15 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026173000 +0100" stop="20151026180000 +0100">
+		<title lang="sv">Scrubs</title>
+		<sub-title lang="sv">My Quarantine</sub-title>
+		<desc lang="sv">JD försöker imponera på Kylie på deras första dejt. Turk får veta att Carla har dejtat Cox en gång i tiden. .</desc>
+		<credits>
+			<director>Michael Spiller</director>
+			<actor role="Todd Quinlan">Robert Maschio</actor>
+			<actor role="Lucy Bennett">Kerry Bishé</actor>
+			<actor role="Dr. Christopher &quot;Chris&quot; Duncan Turk">Donald Faison</actor>
+			<actor role="Dr. Percival &quot;Perry&quot; Ulysses Cox">John C. McGinley</actor>
+			<actor role="Cole McCallister">Dave Franco</actor>
+			<actor role="Drew Suffin">Michael Mosley</actor>
+			<actor role="Dr. Elliot Reid">Sarah Chalke</actor>
+			<actor role="Jordan Sullivan">Christa Miller</actor>
+			<actor role="Dr. John Michael &quot;J.D.&quot; Dorian">Zach Braff</actor>
+			<actor role="Ted Buckland">Sam Lloyd</actor>
+			<actor role="Nurse Carla Espinosa">Judy Reyes</actor>
+			<actor role="Nurse Laverne Roberts">Aloma Wright</actor>
+			<actor role="Dr. Robert &quot;Bob&quot; Kelso">Ken Jenkins</actor>
+			<actor role="Denise Mahoney">Eliza Coupe</actor>
+			<actor role="Keith">Travis Schuldt</actor>
+			<actor role="Dr. Doug Murphy">Johnny Kastl</actor>
+			<actor role="Dr. Molly Clock">Heather Graham</actor>
+			<actor role="The Janitor">Neil Flynn</actor>
+			<actor>Loren Lester</actor>
+			<writer>Tad Quill</writer>
+		</credits>
+		<date>2001</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=76156&amp;seasonid=9775&amp;id=184686&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/76156</episode-num>
+		<episode-num system="xmltv_ns">3 . 15 .</episode-num>
+		<episode-num system="onscreen">Del 16 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026180000 +0100" stop="20151026183000 +0100">
+		<title lang="sv">How I Met Your Mother</title>
+		<sub-title lang="sv">We're Not from Here</sub-title>
+		<desc lang="sv">Ted och Barney låtsas vara besökare i New York för att ragga tjejer. Marshall och Lily skriver brev till varandra som ska läsas efter att en av dem dör.</desc>
+		<credits>
+			<director>Pamela Fryman</director>
+			<actor role="Ted Mosby">Josh Radnor</actor>
+			<actor role="Tracy McConnell">Cristin Milioti</actor>
+			<actor role="Narrator">Bob Saget</actor>
+			<actor role="Robin Scherbatsky">Cobie Smulders</actor>
+			<actor role="Barney Stinson">Neil Patrick Harris</actor>
+			<actor role="Lily Aldrin">Alyson Hannigan</actor>
+			<actor role="Marshall Eriksen">Jason Segel</actor>
+			<actor>Nikki Griffin</actor>
+			<actor>Michaelle Nordin</actor>
+			<actor>Damon Gameau</actor>
+			<actor>Darryl Sivad</actor>
+			<actor>Enrique Iglesias</actor>
+			<writer>Chris Harris</writer>
+		</credits>
+		<date>2005</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75760&amp;seasonid=28494&amp;id=336994&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75760</episode-num>
+		<episode-num system="xmltv_ns">2 . 1 .</episode-num>
+		<episode-num system="onscreen">Del 2 säsong 3</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026183000 +0100" stop="20151026190000 +0100">
+		<title lang="sv">How I Met Your Mother</title>
+		<sub-title lang="sv">Third Wheel</sub-title>
+		<desc lang="sv">Teds nya attityd attraherar både nya kvinnor och damer från hans förflutna. Resten av gänget försöker hjälpa honom att göra det bästa av situationen.</desc>
+		<credits>
+			<director>Pamela Fryman</director>
+			<actor role="Ted Mosby">Josh Radnor</actor>
+			<actor role="Tracy McConnell">Cristin Milioti</actor>
+			<actor role="Narrator">Bob Saget</actor>
+			<actor role="Robin Scherbatsky">Cobie Smulders</actor>
+			<actor role="Barney Stinson">Neil Patrick Harris</actor>
+			<actor role="Lily Aldrin">Alyson Hannigan</actor>
+			<actor role="Marshall Eriksen">Jason Segel</actor>
+			<actor>Danica McKellar</actor>
+			<actor>Busy Philipps</actor>
+			<actor>Neil Jackson</actor>
+			<actor>Melissa Ordway</actor>
+			<actor>Chantelle Berry</actor>
+			<actor>Christine Woods</actor>
+			<writer>David Hemingson</writer>
+		</credits>
+		<date>2005</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75760&amp;seasonid=28494&amp;id=336996&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75760</episode-num>
+		<episode-num system="xmltv_ns">2 . 2 .</episode-num>
+		<episode-num system="onscreen">Del 3 säsong 3</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026190000 +0100" stop="20151026193000 +0100">
+		<title lang="sv">Anger Management</title>
+		<desc lang="sv">Charlie planerar att sprida information om en felaktigt dömd man som släpps ur fängelse efter 50 år. Jordans och Seans överenskommelse blir mer och mer seriös, vilket oroar dem.</desc>
+		<credits>
+			<actor role="Charlie Goodson">Charlie Sheen</actor>
+			<actor role="Kate Wales">Selma Blair</actor>
+			<actor role="Jennifer Goodson">Shawnee Smith</actor>
+			<actor role="Wayne">Stephen Taylor</actor>
+			<actor role="Ernesto">Aldo Gonzalez</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">3 . 19/23 .</episode-num>
+		<episode-num system="onscreen">Del 20 av 23 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026193000 +0100" stop="20151026200000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Last Tap Dance in Springfield</sub-title>
+		<desc lang="sv">Lisa tar tangolektioner, medan Homer bestämmer sig för att förbättra synen med hjälp av laser.</desc>
+		<credits>
+			<director>Nancy Kruse</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<writer>Julie Thacker</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2729&amp;id=55698&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">10 . 19 .</episode-num>
+		<episode-num system="onscreen">Del 20 säsong 11</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.2 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026200000 +0100" stop="20151026203000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Behind the Laughter</sub-title>
+		<desc lang="sv">Vi följer familjen Simpsons liv &quot;bakom kulisserna&quot;. Willie Nelson gästspelar.</desc>
+		<credits>
+			<director>Mark Kirkland</director>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<actor>Gary Coleman</actor>
+			<actor>Jim Forbes</actor>
+			<actor>Stephen Hawking</actor>
+			<actor>Willie Nelson</actor>
+			<actor>Buzz Aldrin</actor>
+			<actor>Tom Kite</actor>
+			<actor>Butch Patrick</actor>
+			<writer>Matt Selman</writer>
+			<writer>Mike Scully</writer>
+			<writer>George Meyer</writer>
+			<writer>Tim Long</writer>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=2729&amp;id=55700&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">10 . 21 .</episode-num>
+		<episode-num system="onscreen">Del 22 säsong 11</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026203000 +0100" stop="20151026210000 +0100">
+		<title lang="sv">Simpsons</title>
+		<sub-title lang="sv">Waiting For Duffman</sub-title>
+		<desc lang="sv">Duffman går i pension och företaget arrangerar en dokusåpa för att hitta hans ersättare. Homer vinner men måste hålla sig nykter, och inser att han inte behöver dricka öl för att ha kul.</desc>
+		<credits>
+			<actor role="Moe Szyslak|Apu Nahasapeemapetilon|Chief Clancy Wiggum|Professor Frink|Dr. Nick Riviera|Comic Book Guy|Lou|Carl Carlson|Snake|Kirk Van Houten|Superintendent Chalmers">Hank Azaria</actor>
+			<actor role="Lisa Simpson">Yeardley Smith</actor>
+			<actor role="Homer Simpson|Krusty the Clown|Grampa Simpson|Barney Gumble|Mayor Quimby|Groundskeeper Willie">Dan Castellaneta</actor>
+			<actor role="Bart Simpson|Nelson Muntz|Todd Flanders|Ralph Wiggum|Kearney">Nancy Cartwright</actor>
+			<actor role="Edna Krabappel|Mrs. Krabappel|Cat Lady">Marcia Wallace</actor>
+			<actor role="Jenny|Princess Penelope">Anne Hathaway</actor>
+			<actor role="Charles Montgomery Burns|Nedward &quot;Ned&quot; Flanders|Principal Seymour Skinner|Reverend Timothy Lovejoy|Otto Mann|Waylon Smithers|Dr. Marvin Monroe">Harry Shearer</actor>
+			<actor role="Marge Simpson|Patty Bouvier|Selma Bouvier Terwilliger Hutz McClure|Grandma Jacqueline Bouvier|Aunt Gladys Bouvier">Julie Kavner</actor>
+			<actor>Cat Deeley</actor>
+			<actor>R. Lee Ermey</actor>
+			<actor>Stacy Keach</actor>
+		</credits>
+		<date>1989</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Children's</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=71663&amp;seasonid=588131&amp;id=5135251&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/71663</episode-num>
+		<episode-num system="xmltv_ns">25 . 16 .</episode-num>
+		<episode-num system="onscreen">Del 17 säsong 26</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026210000 +0100" stop="20151026213000 +0100">
+		<title lang="sv">2 1/2 män</title>
+		<sub-title lang="sv">I Think I Banged Lucille Ball</sub-title>
+		<desc lang="sv">Jenny flyttar in hos Evelyn för att ta hänsyn till Waldens känslor. Alan tar sig en tätatät med Lyndsey, trots att hon dejtar någon annan.</desc>
+		<credits>
+			<director>James Widdoes</director>
+			<actor role="Rose">Melanie Lynskey</actor>
+			<actor role="Herb Melnick">Ryan Stiles</actor>
+			<actor role="Chelsea/Nina/Suzanne/Tina">Jennifer Taylor</actor>
+			<actor role="Kandi">April Bowlby</actor>
+			<actor role="Evelyn Harper">Holland Taylor</actor>
+			<actor role="Danielle Stewert">Brooke Shields</actor>
+			<actor role="Mia">Emmanuelle Vaugier</actor>
+			<actor role="Berta">Conchata Ferrell</actor>
+			<actor role="Eldridge McElroy">Graham Patrick Martin</actor>
+			<actor role="Judith">Marin Hinkle</actor>
+			<actor role="Marty">Carl Reiner</actor>
+			<actor role="Dr. Linda Freeman">Jane Lynch</actor>
+			<actor role="Kandi">April Bowlby</actor>
+			<actor role="Melissa">Kelly Stables</actor>
+			<actor role="Walden Schmidt">Ashton Kutcher</actor>
+			<actor role="Bridget">Judy Greer</actor>
+			<actor role="Jacob David &quot;Jake&quot; Harper">Angus T. Jones</actor>
+			<actor role="Courtney">Jenny McCarthy</actor>
+			<actor role="Jenny">Amber Tamblyn</actor>
+			<actor role="Alan Harper">Jon Cryer</actor>
+			<actor role="Lyndsey McElroy">Courtney Thorne-Smith</actor>
+			<actor role="Charles &quot;Charlie&quot; Harper">Charlie Sheen</actor>
+			<actor>Carl Reiner</actor>
+			<actor>Amber Tamblyn</actor>
+			<actor>Courtney Thorne-Smith</actor>
+			<actor>Shanti Lowry</actor>
+			<writer>Chuck Lorre</writer>
+			<writer>Alissa Neubauer</writer>
+			<writer>Don Reo</writer>
+			<writer>Jim Patterson</writer>
+			<writer>Jeff Lowell</writer>
+		</credits>
+		<date>2003</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=72227&amp;seasonid=522929&amp;id=4623496&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/72227</episode-num>
+		<episode-num system="xmltv_ns">10 . 1 .</episode-num>
+		<episode-num system="onscreen">Del 2 säsong 11</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026213000 +0100" stop="20151026220000 +0100">
+		<title lang="sv">Anger Management</title>
+		<desc lang="sv">Efter sin kortlivade kärleksaffär med en het sekreterare, hamnar Charlie i trubbel. Han inser nämligen att hon är släkt med hans övervakare från fängelset.</desc>
+		<credits>
+			<actor role="Charlie Goodson">Charlie Sheen</actor>
+			<actor role="Kate Wales">Selma Blair</actor>
+			<actor role="Jennifer Goodson">Shawnee Smith</actor>
+			<actor role="Wayne">Stephen Taylor</actor>
+			<actor role="Ernesto">Aldo Gonzalez</actor>
+		</credits>
+		<date>2013</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">3 . 3/23 .</episode-num>
+		<episode-num system="onscreen">Del 4 av 23 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026220000 +0100" stop="20151026223000 +0100">
+		<title lang="sv">Last Man on Earth</title>
+		<sub-title lang="sv">Screw the Moon</sub-title>
+		<desc lang="sv">Tandy inser att han är enormt svartsjuk på den nye Phils förhållande med Carol och bestämmer sig för att försöka vinna tillbaka henne.</desc>
+		<credits>
+			<actor role="Todd">Mel Rodriguez</actor>
+			<actor role="Phil Tandy Miller">Will Forte</actor>
+			<actor role="Erica">Cleopatra Coleman</actor>
+			<actor role="Gail">Mary Steenburgen</actor>
+			<actor role="Melissa Shart">January Jones</actor>
+			<actor role="Phil Miller">Boris Kodjoe</actor>
+			<actor role="Carol Pilbasian">Kristen Schaal</actor>
+		</credits>
+		<date>2015</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=281622&amp;seasonid=585440&amp;id=5160005&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/281622</episode-num>
+		<episode-num system="xmltv_ns">0 . 12 .</episode-num>
+		<episode-num system="onscreen">Del 13 säsong 1</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.3 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026223000 +0100" stop="20151026230000 +0100">
+		<title lang="sv">Family Guy</title>
+		<sub-title lang="sv">Family Guy Viewer Mail #1</sub-title>
+		<desc lang="sv">Ett specialavsnitt där Brian går igenom brev och svarar på tittarfrågor. .</desc>
+		<credits>
+			<director>Pete Michels</director>
+			<director>Scott Wood</director>
+			<director>Michael Dante DiMartino</director>
+			<actor>Anne Hathaway</actor>
+			<actor role="Chris Griffin">Seth Green</actor>
+			<actor role="Adam West">Adam West</actor>
+			<actor>Ashley Tisdale</actor>
+			<actor role="Meg Griffin #2">Mila Kunis</actor>
+			<actor role="Peter Griffin|Stewie Griffin|Brian Griffin|Glenn Quagmire|Tom Tucker|Jake Tucker|Carter Pewterschmidt|Mickey McFinnigan|O'Brian|Dr. Elmer Hartman|Seamus|Jasper|Kevin Swanson|Jesus|God">Seth MacFarlane</actor>
+			<actor role="Anna">Amanda Bynes</actor>
+			<actor role="Meg Griffin">Lacey Chabert</actor>
+			<actor role="Cleveland Brown">Mike Henry</actor>
+			<actor role="Lois Griffin|Loretta Brown|Tricia Takanawa">Alex Borstein</actor>
+			<actor>Bil Goldberg</actor>
+			<actor>Judy Greer</actor>
+			<actor>Kerrigan Mahan</actor>
+			<actor>Regis Philbin</actor>
+			<actor>Kelly Ripa</actor>
+			<actor>Lane Schnaitter</actor>
+			<actor>Michael Winslow</actor>
+			<writer>Gene Laufenberg</writer>
+			<writer>Seth MacFarlane</writer>
+			<writer>Michael Shipley</writer>
+			<writer>Jim Bernstein</writer>
+		</credits>
+		<date>1999</date>
+		<category lang="en">series</category>
+		<category lang="en">Animation</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75978&amp;seasonid=9514&amp;id=181163&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75978</episode-num>
+		<episode-num system="xmltv_ns">2 . 20 .</episode-num>
+		<episode-num system="onscreen">Del 21 säsong 3</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151026230000 +0100" stop="20151026233000 +0100">
+		<title lang="sv">American Dad</title>
+		<desc lang="sv">Roger upptäcker att någon har använt hans kreditkort och är fast besluten att haffa skurken. Men efter ett par dagar inser han att saker inte står rätt till...</desc>
+		<credits>
+			<director>Scott Wood</director>
+			<actor>Stan Smith</actor>
+			<actor>Francine Smith</actor>
+			<actor>Hayley Smith</actor>
+			<actor>Klaus</actor>
+			<actor>Steve Smith</actor>
+		</credits>
+		<date>2008</date>
+		<category lang="en">series</category>
+		<category lang="en">Series</category>
+		<country>US</country>
+		<episode-num system="xmltv_ns">4 . 1/20 .</episode-num>
+		<episode-num system="onscreen">Del 2 av 20 säsong 5</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+	</programme>
+	<programme channel="tv6.se" start="20151026233000 +0100" stop="20151027000000 +0100">
+		<title lang="sv">Scrubs</title>
+		<sub-title lang="sv">My Life in Four Cameras</sub-title>
+		<desc lang="sv">JD börjar fantisera om att göra en TV-serie om sitt liv på sjukhuset. Turk och Carla kämpar för att behålla romantiken i sitt förhållande. .</desc>
+		<credits>
+			<director>Adam Bernstein</director>
+			<actor role="Todd Quinlan">Robert Maschio</actor>
+			<actor role="Lucy Bennett">Kerry Bishé</actor>
+			<actor role="Dr. Christopher &quot;Chris&quot; Duncan Turk">Donald Faison</actor>
+			<actor role="Dr. Percival &quot;Perry&quot; Ulysses Cox">John C. McGinley</actor>
+			<actor role="Cole McCallister">Dave Franco</actor>
+			<actor role="Drew Suffin">Michael Mosley</actor>
+			<actor role="Dr. Elliot Reid">Sarah Chalke</actor>
+			<actor role="Jordan Sullivan">Christa Miller</actor>
+			<actor role="Dr. John Michael &quot;J.D.&quot; Dorian">Zach Braff</actor>
+			<actor role="Ted Buckland">Sam Lloyd</actor>
+			<actor role="Nurse Carla Espinosa">Judy Reyes</actor>
+			<actor role="Nurse Laverne Roberts">Aloma Wright</actor>
+			<actor role="Dr. Robert &quot;Bob&quot; Kelso">Ken Jenkins</actor>
+			<actor role="Denise Mahoney">Eliza Coupe</actor>
+			<actor role="Keith">Travis Schuldt</actor>
+			<actor role="Dr. Doug Murphy">Johnny Kastl</actor>
+			<actor role="Dr. Molly Clock">Heather Graham</actor>
+			<actor role="The Janitor">Neil Flynn</actor>
+			<actor>Clay Aiken</actor>
+			<actor>Ken Lerner</actor>
+			<actor>Deonté Gordon</actor>
+			<actor>Jeremy Howard</actor>
+			<actor>Dave Martel</actor>
+			<writer>Debra Fordham</writer>
+		</credits>
+		<date>2001</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=76156&amp;seasonid=9775&amp;id=184687&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/76156</episode-num>
+		<episode-num system="xmltv_ns">3 . 16 .</episode-num>
+		<episode-num system="onscreen">Del 17 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.6 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151027000000 +0100" stop="20151027003000 +0100">
+		<title lang="sv">Scrubs</title>
+		<sub-title lang="sv">My Roommates</sub-title>
+		<desc lang="sv">JD kastas ut från sin lägenhet. Cox misstänker att en gammal väns son är autistisk. .</desc>
+		<credits>
+			<director>Craig Zisk</director>
+			<actor role="Todd Quinlan">Robert Maschio</actor>
+			<actor role="Lucy Bennett">Kerry Bishé</actor>
+			<actor role="Dr. Christopher &quot;Chris&quot; Duncan Turk">Donald Faison</actor>
+			<actor role="Dr. Percival &quot;Perry&quot; Ulysses Cox">John C. McGinley</actor>
+			<actor role="Cole McCallister">Dave Franco</actor>
+			<actor role="Drew Suffin">Michael Mosley</actor>
+			<actor role="Dr. Elliot Reid">Sarah Chalke</actor>
+			<actor role="Jordan Sullivan">Christa Miller</actor>
+			<actor role="Dr. John Michael &quot;J.D.&quot; Dorian">Zach Braff</actor>
+			<actor role="Ted Buckland">Sam Lloyd</actor>
+			<actor role="Nurse Carla Espinosa">Judy Reyes</actor>
+			<actor role="Nurse Laverne Roberts">Aloma Wright</actor>
+			<actor role="Dr. Robert &quot;Bob&quot; Kelso">Ken Jenkins</actor>
+			<actor role="Denise Mahoney">Eliza Coupe</actor>
+			<actor role="Keith">Travis Schuldt</actor>
+			<actor role="Dr. Doug Murphy">Johnny Kastl</actor>
+			<actor role="Dr. Molly Clock">Heather Graham</actor>
+			<actor role="The Janitor">Neil Flynn</actor>
+			<actor>Michael Boatman</actor>
+			<actor>Ed McMahon</actor>
+			<writer>Tim Hobert</writer>
+		</credits>
+		<date>2001</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=76156&amp;seasonid=9775&amp;id=184688&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/76156</episode-num>
+		<episode-num system="xmltv_ns">3 . 17 .</episode-num>
+		<episode-num system="onscreen">Del 18 säsong 4</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+	<programme channel="tv6.se" start="20151027003000 +0100" stop="20151027010000 +0100">
+		<title lang="sv">How I Met Your Mother</title>
+		<sub-title lang="sv">We're Not from Here</sub-title>
+		<desc lang="sv">Ted och Barney låtsas vara besökare i New York för att ragga tjejer. Marshall och Lily skriver brev till varandra som ska läsas efter att en av dem dör.</desc>
+		<credits>
+			<director>Pamela Fryman</director>
+			<actor role="Ted Mosby">Josh Radnor</actor>
+			<actor role="Tracy McConnell">Cristin Milioti</actor>
+			<actor role="Narrator">Bob Saget</actor>
+			<actor role="Robin Scherbatsky">Cobie Smulders</actor>
+			<actor role="Barney Stinson">Neil Patrick Harris</actor>
+			<actor role="Lily Aldrin">Alyson Hannigan</actor>
+			<actor role="Marshall Eriksen">Jason Segel</actor>
+			<actor>Nikki Griffin</actor>
+			<actor>Michaelle Nordin</actor>
+			<actor>Damon Gameau</actor>
+			<actor>Darryl Sivad</actor>
+			<actor>Enrique Iglesias</actor>
+			<writer>Chris Harris</writer>
+		</credits>
+		<date>2005</date>
+		<category lang="en">series</category>
+		<category lang="en">Comedy</category>
+		<url>http://thetvdb.com/?tab=episode&amp;seriesid=75760&amp;seasonid=28494&amp;id=336994&amp;lid=8</url>
+		<country>US</country>
+		<episode-num system="thetvdb.com">series/75760</episode-num>
+		<episode-num system="xmltv_ns">2 . 1 .</episode-num>
+		<episode-num system="onscreen">Del 2 säsong 3</episode-num>
+		<video>
+			<aspect>4:3</aspect>
+		</video>
+		<star-rating>
+			<value>6.5 / 9</value>
+		</star-rating>
+	</programme>
+</tv>
