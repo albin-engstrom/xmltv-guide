@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Link to the xsl file used to transform the listings -->
-<?xml-stylesheet type="text/xsl" href="CreateDictionary.xsl"?>
+<?xml-stylesheet type="text/xsl" href="CombineListings.xsl"?>
 
 <!-- The root tag -->
 <Listings>
