@@ -19,17 +19,37 @@
 		<xsl:variable name="Listing2Root" select="document($Listing2)/tv" />
 		<xsl:variable name="Listing3Root" select="document($Listing3)/tv" />
 
+		<!-- The tag that hold programmes -->
 		<Programmes>
+
+			<!-- Iterate through all programme elements -->
 			<xsl:for-each select="$Listing1Root/programme">
+
+				<!-- The element holding the programme metadata -->
 				<Programme>
+
+					<!-- The title -->
 					<Title>
 						<xsl:value-of select="title"/>
 					</Title>
+
+					<!-- The channel -->
+					<Channel>
+						<xsl:value-of select="@channel"/>
+					</Channel>
+
+					<!-- The start time -->
+					<Start>
+						<xsl:value-of select="@start"/>
+					</Start>
+
+					<!-- The stop time -->
+					<Stop>
+						<xsl:value-of select="@stop"/>
+					</Stop>
+
 				</Programme>
 			</xsl:for-each>
 		</Programmes>
-
 	</xsl:template>
-
-
 </xsl:stylesheet>
