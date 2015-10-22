@@ -7,8 +7,20 @@
 <Listings>
 
   <!-- The listings to use -->
-	<Listing nr="1">Listings/sv.hbonordic.tv_2015-10-25.xml</Listing>
-	<Listing nr="2">Listings/svt1hd.svt.se_2015-10-25.xml</Listing>
-	<Listing nr="3">Listings/tv6.se_2015-10-26.xml</Listing>
+	<Listing>
+		<Channel>sv.hbonordic.tv</Channel>
+		<File>Listings/sv.hbonordic.tv_2015-10-25.xml</File>
+		<Logo>Logos/sv.hbonordic.tv.png</Logo>
+	</Listing>
+	<Listing>
+		<Channel>svt1hd.svt.se</Channel>
+		<File>Listings/svt1hd.svt.se_2015-10-25.xml</File>
+		<Logo>Logos/svt1hd.svt.se.png</Logo>
+	</Listing>
+	<Listing>
+		<Channel>tv6.se</Channel>
+		<File>Listings/tv6.se_2015-10-26.xml</File>
+		<Logo>Logos/tv6.se.png</Logo>
+	</Listing>
 
 </Listings>

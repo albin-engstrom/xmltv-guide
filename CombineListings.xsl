@@ -9,44 +9,59 @@
 	<!-- Template -->
 	<xsl:template match="/">
 
-		<!-- Iterate through Listings -->
-		<xsl:for-each select="/Listings/Listing">
+		<Channels>
 
-			<!-- Variable with root tags for the listing -->
-			<xsl:variable name="ListingRoot" select="document(.)/tv" />
+			<!-- Iterate through Listings -->
+			<xsl:for-each select="/Listings/Listing">
 
-			<!-- The tag that hold programmes -->
-			<Programmes>
+				<!-- Holds the channel info -->
+				<Channel>
+
+					<!-- The channel name -->
+					<Name><xsl:value-of select="./Channel"/></Name>
+
+					<!-- The channel logo -->
+					<Logo><xsl:value-of select="./Logo"/></Logo>
+
+				</Channel>
+			</xsl:for-each>
+		</Channels>
+
+		<!-- Start the next element on a new line -->
+		<xsl:text>&#xa;</xsl:text>
+
+		<!-- The tag that hold programmes -->
+		<Programmes>
+
+			<!-- Iterate through Listings -->
+			<xsl:for-each select="/Listings/Listing">
+
+				<xsl:variable name="File" select="./File"/>
+
+				<!-- Variable with root element for the listing file -->
+				<xsl:variable name="Root" select="document($File)/tv"/>
 
 				<!-- Iterate through all programme elements -->
-				<xsl:for-each select="$ListingRoot/programme">
+				<xsl:for-each select="$Root/programme">
 
 					<!-- The element holding the programme metadata -->
 					<Programme>
 
 						<!-- The title -->
-						<Title>
-							<xsl:value-of select="title"/>
-						</Title>
+						<Title><xsl:value-of select="title"/></Title>
 
 						<!-- The channel -->
-						<Channel>
-							<xsl:value-of select="@channel"/>
-						</Channel>
+						<Channel><xsl:value-of select="@channel"/></Channel>
 
 						<!-- The start time -->
-						<Start>
-							<xsl:value-of select="@start"/>
-						</Start>
+						<Start><xsl:value-of select="@start"/></Start>
 
 						<!-- The stop time -->
-						<Stop>
-							<xsl:value-of select="@stop"/>
-						</Stop>
+						<Stop><xsl:value-of select="@stop"/></Stop>
 
 					</Programme>
 				</xsl:for-each>
-			</Programmes>
-		</xsl:for-each>
+			</xsl:for-each>
+		</Programmes>
 	</xsl:template>
 </xsl:stylesheet>

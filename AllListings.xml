@@ -1,4 +1,18 @@
 <?xml version="1.0"?>
+<Channels>
+  <Channel>
+    <Name>sv.hbonordic.tv</Name>
+    <Logo>Logos/sv.hbonordic.tv.png</Logo>
+  </Channel>
+  <Channel>
+    <Name>svt1hd.svt.se</Name>
+    <Logo>Logos/svt1hd.svt.se.png</Logo>
+  </Channel>
+  <Channel>
+    <Name>tv6.se</Name>
+    <Logo>Logos/tv6.se.png</Logo>
+  </Channel>
+</Channels>
 <Programmes>
   <Programme>
     <Title>Doll &amp; Em</Title>
@@ -162,7 +176,6 @@
     <Start>20151026002500 +0100</Start>
     <Stop>20151026014500 +0100</Stop>
   </Programme>
-</Programmes><Programmes>
   <Programme>
     <Title>Karl Johan</Title>
     <Channel>svt1hd.svt.se</Channel>
@@ -367,7 +380,6 @@
     <Start>20151026005500 +0100</Start>
     <Stop>20151026014000 +0100</Stop>
   </Programme>
-</Programmes><Programmes>
   <Programme>
     <Title>How I Met Your Mother</Title>
     <Channel>tv6.se</Channel>
