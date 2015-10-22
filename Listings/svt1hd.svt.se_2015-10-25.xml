@@ -2,7 +2,7 @@
 <!DOCTYPE tv
   SYSTEM 'xmltv.dtd'>
 <tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
-	<programme channel="svt1.svt.se" start="20151025031000 +0100" stop="20151025034000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025031000 +0100" stop="20151025034000 +0100">
 		<title lang="sv">Karl Johan</title>
 		<sub-title lang="sv">Episode 1</sub-title>
 		<desc lang="sv">Nästan direktsänd humorpratshow! En ny säsong med Erik Solbakken och Hasse Hope, som från sina fällstolar på Karl Johans gate i centrala Oslo bjuder in sina gäster bland de förbipasserande på gatan. Dessutom, oförglömliga inslag som &quot;Brorsan&quot;, &quot;Folkets film&quot; och &quot;Limbosmitning&quot;.</desc>
@@ -19,9 +19,10 @@
 		<episode-num system="onscreen">Del 1 säsong 2</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025040500 +0100" stop="20151025054000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025040500 +0100" stop="20151025054000 +0100">
 		<title lang="sv">Columbo</title>
 		<sub-title lang="sv">The Conspirators</sub-title>
 		<desc lang="sv">LA-kriminalaren Columbo utreder mord med stor envishet och noggrannhet. Hans något ostädade framtoning döljer ett knivskarpt intellekt, som ofta underskattas av de misstänkta. I huvudrollen: Peter Falk.</desc>
@@ -32,9 +33,10 @@
 		<episode-num system="onscreen">Del 4 av 4 säsong 1977</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025054000 +0100" stop="20151025062500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025054000 +0100" stop="20151025062500 +0100">
 		<title lang="sv">Go'kväll</title>
 		<desc lang="sv">Artisten Gladys del Pilar delar med sig av de platser som betyder mest. Lotta Kühlhorn har tagit med sig sina bästa pysselidéer. Johanna Westman lagar gott i köket. Fullt ös på scenen med bluegrassbandet &quot;Spinning Jennies&quot;. Programledare Inger Ljung Olsson.</desc>
 		<date>2015</date>
@@ -44,9 +46,10 @@
 		<episode-num system="onscreen">Del 45 av 85 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025062500 +0100" stop="20151025072500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025062500 +0100" stop="20151025072500 +0100">
 		<title lang="sv">Plus</title>
 		<desc lang="sv">Restauranger måste sedan ifjol ha koll på innehållet i form av allergener och gluten i den mat de säljer. Men kunskapen är begränsad, det visar en undersökning som Plus gjort. Inte ens hälften av matställena kan ge korrekta och tydliga svar om innehållet i sin mat, trots lagkravet. Plus intervjuar också en representant för flygbolaget Norwegian om varför de inte ersätter sina kunder när planen är försenade. Dessutom testas nattbindor.</desc>
 		<date>2015</date>
@@ -56,9 +59,10 @@
 		<episode-num system="onscreen">Del 7 av 10 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025072500 +0100" stop="20151025082500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025072500 +0100" stop="20151025082500 +0100">
 		<title lang="sv">Mitt i naturen</title>
 		<desc lang="sv">Bergsgorillor i Rwanda och vitryggig hackspett i Sverige har en sak gemensam, de påverkas båda hårt av skogsbruk. På de skogsklädda bergssluttningarna i Rwanda lever några av världens sista kvarlevande bergsgorillor. Skogsavverkning och tjuvjakt är några av hoten mot dem. Vart femte år görs en stor inventering av hur många bergsgorillor som faktiskt finns. Joakim Odelberg har fått en unik chans att vara med på inventeringen. Den vitryggiga hackspetten är en art som trivs i gammal lövskog. Men här i Sverige har den det svårt. Anders Lundin möter en av dem som kämpar med att bevara vitryggen i Sverige. Han besöker också en gammal skog för att se vilka andra arter som går förlorade när vitryggens livsmiljöer försvinner. I höstens serie delas programledarjobbet av Magdalena Forsberg, Anders Lundin och Joakim Odelberg.</desc>
 		<date>2015</date>
@@ -68,9 +72,10 @@
 		<episode-num system="onscreen">Del 3 av 10 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025082500 +0100" stop="20151025092000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025082500 +0100" stop="20151025092000 +0100">
 		<title lang="sv">Minnenas television</title>
 		<sub-title lang="sv">Laila Westersund</sub-title>
 		<desc lang="sv">Vi minns Laila Westersund med hjälp av programmet &quot;Två och en flygel&quot; från 1987. Laila berättar om sin karriär som såväl sångerska som revyartist. &quot;Yrvädret från Trollhättan&quot; var starkt förknippad med Hagges revyer i Göteborg. Det får vi givetvis exempel på men hon var så mycket mer. Den mångsidigheten visar sig i det här programmet där hon spelar såväl piano som dragspel och trummor. Några busvisslingar blir det givetvis också. Laila Westersund gick bort i februari 2011.</desc>
@@ -78,8 +83,11 @@
 		<category lang="en">series</category>
 		<episode-num system="xmltv_ns">2010 . 5/20 .</episode-num>
 		<episode-num system="onscreen">Del 6 av 20 säsong 2011</episode-num>
+		<video>
+			<quality>HDTV</quality>
+		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025092000 +0100" stop="20151025103000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025092000 +0100" stop="20151025103000 +0100">
 		<title lang="sv">Alpint</title>
 		<sub-title lang="sv">Världscupen, Sölden</sub-title>
 		<desc lang="sv">Direktsändning från herrarnas storslalom, första åket.Kommentatorer: Björn Fagerlind och Pernilla Wiberg.</desc>
@@ -90,9 +98,10 @@
 		<episode-num system="onscreen">Del 3 av 5 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025103000 +0100" stop="20151025103500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025103000 +0100" stop="20151025103500 +0100">
 		<title lang="sv">K-märkts modärna</title>
 		<desc lang="sv">K-spanarna Staffan Bengtsson och Göran Willis samt fotografen Hans-Åke Lerin visar byggnader från en tid när modernismen var modärn.</desc>
 		<date>1995</date>
@@ -100,8 +109,11 @@
 		<category lang="en">News</category>
 		<episode-num system="xmltv_ns">0 . 4/8 .</episode-num>
 		<episode-num system="onscreen">Del 5 av 8 säsong 1</episode-num>
+		<video>
+			<quality>HDTV</quality>
+		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025103500 +0100" stop="20151025110500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025103500 +0100" stop="20151025110500 +0100">
 		<title lang="sv">Kobra</title>
 		<desc lang="sv">Madeline Stuart, 18-årig fotomodell med Downs syndrom, har just tagit New York Fashion Week med storm. Kobras nya programledarduo Lina Thomsgård och Kristofer Lundström konstaterar att skönhetsidealen förändras i rasande fart - eller gör de det? Programmet inleder i kväll sin 30:e säsong.</desc>
 		<date>2015</date>
@@ -111,9 +123,10 @@
 		<episode-num system="onscreen">Del 1 av 10 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025110500 +0100" stop="20151025113500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025110500 +0100" stop="20151025113500 +0100">
 		<title lang="sv">Träna med Kalle</title>
 		<desc lang="sv">Kalle Zackari Wahlström peppar 47-åriga småbarnsmamman Petra från Stockholm att komma igång med träningen. Petra drömmer om att springa ett lopp, men tänker att hon måste ha lite bättre kondition innan hon kan börja löpträna. Kalle får, med hjälp av den före detta medeldistansstjärnan Maria Akraka, Petra att förstå att för att bli bra på att springa måste man... springa. Vi får även svar på den eviga frågan &quot;Kan en 47-årig florist göra 100 burpees?&quot;.</desc>
 		<date>2015</date>
@@ -122,21 +135,23 @@
 		<episode-num system="onscreen">Del 4 av 6 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025113500 +0100" stop="20151025123500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025113500 +0100" stop="20151025123500 +0100">
 		<title lang="sv">Moraeus med mera</title>
 		<desc lang="sv">Musikunderhållning från Orsasjöns strand när Kalle Moraeus bjuder artisteliten till ett somrigt Dalarna. Gäster i kväll är Loa Falkman, Smith &amp; Thell, Petter, Dirty Loops och Divine - The Opera Trio.</desc>
 		<date>2015</date>
 		<category lang="en">series</category>
 		<category lang="en">Music</category>
-		<episode-num system="xmltv_ns">2014 . 1/8 .</episode-num>
-		<episode-num system="onscreen">Del 2 av 8 säsong 2015</episode-num>
+		<episode-num system="xmltv_ns">4 . 1/8 .</episode-num>
+		<episode-num system="onscreen">Del 2 av 8 säsong 5</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025123500 +0100" stop="20151025134500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025123500 +0100" stop="20151025134500 +0100">
 		<title lang="sv">Alpint</title>
 		<sub-title lang="sv">Världscupen Sölden</sub-title>
 		<desc lang="sv">Direktsändning från herrarnas storslalom, andra åket.Kommentatorer: Björn Fagerlind och Pernilla Wiberg.</desc>
@@ -147,9 +162,10 @@
 		<episode-num system="onscreen">Del 4 av 5 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025134500 +0100" stop="20151025140000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025134500 +0100" stop="20151025140000 +0100">
 		<title lang="sv">Svenska hemligheter</title>
 		<sub-title lang="sv">Det underjordiska sjukhuset på Södersjukhuset</sub-title>
 		<desc lang="sv">Det finns många skrönor om sjukhus i berg. Men allt för ofta är det just bara myter. Men den här gången har Melker Becker hittat ett underjordiskt sjukhus mitt i Stockholm. Följ med ner i katastrofsjukhuset under Södersjukhuset.</desc>
@@ -160,9 +176,10 @@
 		<episode-num system="onscreen">Del 4 av 10 säsong 3</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025140000 +0100" stop="20151025143000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025140000 +0100" stop="20151025143000 +0100">
 		<title lang="sv">Robins</title>
 		<desc lang="sv">Kvällens gäster är simnings-världsmästaren Sarah Sjöström och komikerduon Måns Möller och Özz Nûjen.</desc>
 		<date>2015</date>
@@ -172,9 +189,10 @@
 		<episode-num system="onscreen">Del 2 av 8 säsong 12</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025143000 +0100" stop="20151025144000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025143000 +0100" stop="20151025144000 +0100">
 		<title lang="sv">Tiffany Persson arbetstränar</title>
 		<sub-title lang="sv">På byggvaruhuset</sub-title>
 		<desc lang="sv">Vad händer om man sätter en spikpistol eller en truck i händerna på Tiffany Persson? Kan man städa personalrummet med en lövblåsare? Hårfrisörskan från Staffanstorp är tillbaka, lika färgsprakande och aningslös som alltid. Vi följer hennes försök att komma tillbaka in på arbetsmarknaden efter någon sorts utbrändhet. Tiffany: Anders Jansson.</desc>
@@ -185,9 +203,10 @@
 		<episode-num system="onscreen">Del 7 av 10 säsong 1</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025144000 +0100" stop="20151025154000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025144000 +0100" stop="20151025154000 +0100">
 		<title lang="sv">Morgans mission</title>
 		<desc lang="sv">Följ Morgan Alling och klass 8C i deras kamp mot mobbning. Morgan fortsätter sitt arbete med att öka elevernas medvetenhet kring mobbning och kränkningar. Under en lektion där de diskuterar hur det ser ut med kränkningar i den egna klassen och vad de själva kan ändra på blir det oroligt och stökigt mellan tjejerna och killarna.</desc>
 		<date>2015</date>
@@ -197,9 +216,10 @@
 		<episode-num system="onscreen">Del 3 av 5 säsong 1</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025154000 +0100" stop="20151025163000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025154000 +0100" stop="20151025163000 +0100">
 		<title lang="sv">Downton Abbey</title>
 		<desc lang="sv">Bröllopsplanerna börjar ta form, men när Mary lägger sig i försvåras läget mellan Carson och Mrs Hughes. Cora och Violet bråkar om planerna för övertagandet av sjukhuset, medan Thomas kämpar med att hitta ett nytt jobb. Anna får nytt hopp under sin Londonvistelse, Edith möter motstånd på tidningen och Robert ställs inför ett svårt beslut.</desc>
 		<credits>
@@ -217,9 +237,10 @@
 		<episode-num system="onscreen">Del 2 av 8 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025163000 +0100" stop="20151025170000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025163000 +0100" stop="20151025170000 +0100">
 		<title lang="sv">Enduro: Gotland grand national</title>
 		<desc lang="sv">Höjdpunkter från elittävlingen med bl.a. svenska mästaren Joakim Ljunggren i GGN-comeback.</desc>
 		<credits>
@@ -233,9 +254,10 @@
 		<episode-num system="onscreen">Del 4 av 10 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025170000 +0100" stop="20151025175500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025170000 +0100" stop="20151025175500 +0100">
 		<title lang="sv">Ridsport: Världscuphoppning</title>
 		<desc lang="sv">Sammandrag från världscuphoppningen från Helsingfors, Finland.Kommentatorer: Maria Wallberg och Lotta Björe.</desc>
 		<date>2015</date>
@@ -245,9 +267,10 @@
 		<episode-num system="onscreen">Del 2 av 20 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025175500 +0100" stop="20151025180000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025175500 +0100" stop="20151025180000 +0100">
 		<title lang="sv">Sportnytt</title>
 		<desc lang="sv">Senaste sportnyheterna från SVT.</desc>
 		<date>2015</date>
@@ -255,27 +278,30 @@
 		<category lang="en">Sports</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025180000 +0100" stop="20151025181000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025180000 +0100" stop="20151025181000 +0100">
 		<title lang="sv">Rapport</title>
 		<date>2015</date>
 		<category lang="en">tvshow</category>
 		<category lang="en">News</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025181000 +0100" stop="20151025181500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025181000 +0100" stop="20151025181500 +0100">
 		<title lang="sv">Regionala nyheter</title>
 		<date>2015</date>
 		<category lang="en">tvshow</category>
 		<category lang="en">News</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025181500 +0100" stop="20151025190000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025181500 +0100" stop="20151025190000 +0100">
 		<title lang="sv">Landet runt</title>
 		<desc lang="sv">Spännande och intressanta reportage från hela Sverige.</desc>
 		<date>2015</date>
@@ -286,9 +312,10 @@
 		<episode-num system="onscreen">Del 8 av 19 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025190000 +0100" stop="20151025193000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025190000 +0100" stop="20151025193000 +0100">
 		<title lang="sv">Sportspegeln</title>
 		<date>2015</date>
 		<category lang="en">sports</category>
@@ -297,27 +324,30 @@
 		<episode-num system="onscreen">Del 43 av 53 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025193000 +0100" stop="20151025195500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025193000 +0100" stop="20151025195500 +0100">
 		<title lang="sv">Rapport</title>
 		<date>2015</date>
 		<category lang="en">tvshow</category>
 		<category lang="en">News</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025195500 +0100" stop="20151025200000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025195500 +0100" stop="20151025200000 +0100">
 		<title lang="sv">Regionala nyheter</title>
 		<date>2015</date>
 		<category lang="en">tvshow</category>
 		<category lang="en">News</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025200000 +0100" stop="20151025210000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025200000 +0100" stop="20151025210000 +0100">
 		<title lang="sv">Genikampen</title>
 		<desc lang="sv">Finaldags! Fyra av Sveriges skarpaste hjärnor kan vinna Genikampen 2015. Vinnarna i de två första tävlingarna möts i en avslutande duell. Programledare är Micke Leijnegard.</desc>
 		<date>2015</date>
@@ -326,9 +356,10 @@
 		<episode-num system="onscreen">Del 8 av 8 säsong 2</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025210000 +0100" stop="20151025220000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025210000 +0100" stop="20151025220000 +0100">
 		<title lang="sv">Bron</title>
 		<desc lang="sv">Lillian gör en viktigt upptäckt på sjukhuset som kan föra dom närmare mördaren. Samtidigt börjar Saga tvivla på sig själv. Saga ser att Linn håller kontakt med hennes mamma och nu börjar även hennes nya chef att undersöka Sagas förflutna.</desc>
 		<credits>
@@ -347,9 +378,10 @@
 		<episode-num system="onscreen">Del 5 av 10 säsong 3</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025220000 +0100" stop="20151025225000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025220000 +0100" stop="20151025225000 +0100">
 		<title lang="sv">Homeland</title>
 		<sub-title lang="sv">Super Powers</sub-title>
 		<desc lang="sv">Murray Abraham, Mandy Patinkin, Miranda Otto m.fl.</desc>
@@ -365,18 +397,20 @@
 		<episode-num system="onscreen">Del 3 av 12 säsong 2015</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025225000 +0100" stop="20151025225500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025225000 +0100" stop="20151025225500 +0100">
 		<title lang="sv">Rapport</title>
 		<date>2015</date>
 		<category lang="en">tvshow</category>
 		<category lang="en">News</category>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025225500 +0100" stop="20151025234500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025225500 +0100" stop="20151025234500 +0100">
 		<title lang="sv">Ice cream girls</title>
 		<desc lang="sv">Sommaren 1995 står tonårsflickorna Serena och Poppy inför rätta för att ha mördat sin lärare efter att ha utsatts för upprepade övergrepp. Bara en av dem fälls. Efter 17 år bakom galler, för ett brott hon aldrig erkänt, släpps Poppy ur fängelset. Vad hände egentligen den där sommarkvällen?</desc>
 		<credits>
@@ -393,21 +427,23 @@
 		<episode-num system="onscreen">Del 3 av 3 säsong 2013</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151025234500 +0100" stop="20151026004500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151025234500 +0100" stop="20151026004500 +0100">
 		<title lang="sv">Moraeus med mera</title>
 		<desc lang="sv">Musikunderhållning från Orsasjöns strand när Kalle Moraeus bjuder artisteliten till ett somrigt Dalarna. Gäster i kväll är Loa Falkman, Smith &amp; Thell, Petter, Dirty Loops och Divine - The Opera Trio.</desc>
 		<date>2015</date>
 		<category lang="en">series</category>
 		<category lang="en">Music</category>
-		<episode-num system="xmltv_ns">2014 . 1/8 .</episode-num>
-		<episode-num system="onscreen">Del 2 av 8 säsong 2015</episode-num>
+		<episode-num system="xmltv_ns">4 . 1/8 .</episode-num>
+		<episode-num system="onscreen">Del 2 av 8 säsong 5</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151026004500 +0100" stop="20151026005500 +0100">
+	<programme channel="svt1hd.svt.se" start="20151026004500 +0100" stop="20151026005500 +0100">
 		<title lang="sv">Tiffany Persson arbetstränar</title>
 		<sub-title lang="sv">Avsnitt 7</sub-title>
 		<desc lang="sv">Vad händer om man sätter en spikpistol eller en truck i händerna på Tiffany Persson? Kan man städa personalrummet med en lövblåsare? Hårfrisörskan från Staffanstorp är tillbaka, lika färgsprakande och aningslös som alltid. Vi följer hennes försök att komma tillbaka in på arbetsmarknaden efter någon sorts utbrändhet. Tiffany: Anders Jansson.</desc>
@@ -420,9 +456,10 @@
 		<episode-num system="onscreen">Del 7 säsong 1</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 	</programme>
-	<programme channel="svt1.svt.se" start="20151026005500 +0100" stop="20151026014000 +0100">
+	<programme channel="svt1hd.svt.se" start="20151026005500 +0100" stop="20151026014000 +0100">
 		<title lang="sv">Mr. Robot</title>
 		<sub-title lang="sv">eps1.4_3xpl0its.wmv</sub-title>
 		<desc lang="sv">Det hemliga nätverket FSociety lyckas ta sig in på Stelle Montoain, USA:s säkraste dataanläggning. Dagtid jobbar enstöringen Elliot som expert på datasäkerhet. Nattetid är han en notorisk hackare som avslöjar omoraliska brott.</desc>
@@ -447,6 +484,7 @@
 		<episode-num system="onscreen">Del 5 säsong 1</episode-num>
 		<video>
 			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
 		</video>
 		<star-rating>
 			<value>6.7 / 9</value>
