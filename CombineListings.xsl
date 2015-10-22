@@ -9,47 +9,44 @@
 	<!-- Template -->
 	<xsl:template match="/">
 
-		<!-- Variables with the file names -->
-		<xsl:variable name="Listing1" select="/Listings/Listing[@nr = '1']" />
-		<xsl:variable name="Listing2" select="/Listings/Listing[@nr = '2']" />
-		<xsl:variable name="Listing3" select="/Listings/Listing[@nr = '3']" />
+		<!-- Iterate through Listings -->
+		<xsl:for-each select="/Listings/Listing">
 
-		<!-- Variables with root tags for the listings -->
-		<xsl:variable name="Listing1Root" select="document($Listing1)/tv" />
-		<xsl:variable name="Listing2Root" select="document($Listing2)/tv" />
-		<xsl:variable name="Listing3Root" select="document($Listing3)/tv" />
+			<!-- Variable with root tags for the listing -->
+			<xsl:variable name="ListingRoot" select="document(.)/tv" />
 
-		<!-- The tag that hold programmes -->
-		<Programmes>
+			<!-- The tag that hold programmes -->
+			<Programmes>
 
-			<!-- Iterate through all programme elements -->
-			<xsl:for-each select="$Listing1Root/programme">
+				<!-- Iterate through all programme elements -->
+				<xsl:for-each select="$ListingRoot/programme">
 
-				<!-- The element holding the programme metadata -->
-				<Programme>
+					<!-- The element holding the programme metadata -->
+					<Programme>
 
-					<!-- The title -->
-					<Title>
-						<xsl:value-of select="title"/>
-					</Title>
+						<!-- The title -->
+						<Title>
+							<xsl:value-of select="title"/>
+						</Title>
 
-					<!-- The channel -->
-					<Channel>
-						<xsl:value-of select="@channel"/>
-					</Channel>
+						<!-- The channel -->
+						<Channel>
+							<xsl:value-of select="@channel"/>
+						</Channel>
 
-					<!-- The start time -->
-					<Start>
-						<xsl:value-of select="@start"/>
-					</Start>
+						<!-- The start time -->
+						<Start>
+							<xsl:value-of select="@start"/>
+						</Start>
 
-					<!-- The stop time -->
-					<Stop>
-						<xsl:value-of select="@stop"/>
-					</Stop>
+						<!-- The stop time -->
+						<Stop>
+							<xsl:value-of select="@stop"/>
+						</Stop>
 
-				</Programme>
-			</xsl:for-each>
-		</Programmes>
+					</Programme>
+				</xsl:for-each>
+			</Programmes>
+		</xsl:for-each>
 	</xsl:template>
 </xsl:stylesheet>

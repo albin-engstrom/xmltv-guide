@@ -162,4 +162,474 @@
     <Start>20151026002500 +0100</Start>
     <Stop>20151026014500 +0100</Stop>
   </Programme>
+</Programmes><Programmes>
+  <Programme>
+    <Title>Karl Johan</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025031000 +0100</Start>
+    <Stop>20151025034000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Columbo</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025040500 +0100</Start>
+    <Stop>20151025054000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Go'kväll</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025054000 +0100</Start>
+    <Stop>20151025062500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Plus</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025062500 +0100</Start>
+    <Stop>20151025072500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Mitt i naturen</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025072500 +0100</Start>
+    <Stop>20151025082500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Minnenas television</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025082500 +0100</Start>
+    <Stop>20151025092000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Alpint</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025092000 +0100</Start>
+    <Stop>20151025103000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>K-märkts modärna</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025103000 +0100</Start>
+    <Stop>20151025103500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Kobra</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025103500 +0100</Start>
+    <Stop>20151025110500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Träna med Kalle</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025110500 +0100</Start>
+    <Stop>20151025113500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Moraeus med mera</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025113500 +0100</Start>
+    <Stop>20151025123500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Alpint</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025123500 +0100</Start>
+    <Stop>20151025134500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Svenska hemligheter</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025134500 +0100</Start>
+    <Stop>20151025140000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Robins</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025140000 +0100</Start>
+    <Stop>20151025143000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Tiffany Persson arbetstränar</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025143000 +0100</Start>
+    <Stop>20151025144000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Morgans mission</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025144000 +0100</Start>
+    <Stop>20151025154000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Downton Abbey</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025154000 +0100</Start>
+    <Stop>20151025163000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Enduro: Gotland grand national</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025163000 +0100</Start>
+    <Stop>20151025170000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Ridsport: Världscuphoppning</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025170000 +0100</Start>
+    <Stop>20151025175500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Sportnytt</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025175500 +0100</Start>
+    <Stop>20151025180000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Rapport</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025180000 +0100</Start>
+    <Stop>20151025181000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Regionala nyheter</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025181000 +0100</Start>
+    <Stop>20151025181500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Landet runt</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025181500 +0100</Start>
+    <Stop>20151025190000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Sportspegeln</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025190000 +0100</Start>
+    <Stop>20151025193000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Rapport</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025193000 +0100</Start>
+    <Stop>20151025195500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Regionala nyheter</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025195500 +0100</Start>
+    <Stop>20151025200000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Genikampen</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025200000 +0100</Start>
+    <Stop>20151025210000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Bron</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025210000 +0100</Start>
+    <Stop>20151025220000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Homeland</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025220000 +0100</Start>
+    <Stop>20151025225000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Rapport</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025225000 +0100</Start>
+    <Stop>20151025225500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Ice cream girls</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025225500 +0100</Start>
+    <Stop>20151025234500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Moraeus med mera</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151025234500 +0100</Start>
+    <Stop>20151026004500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Tiffany Persson arbetstränar</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151026004500 +0100</Start>
+    <Stop>20151026005500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Mr. Robot</Title>
+    <Channel>svt1hd.svt.se</Channel>
+    <Start>20151026005500 +0100</Start>
+    <Stop>20151026014000 +0100</Stop>
+  </Programme>
+</Programmes><Programmes>
+  <Programme>
+    <Title>How I Met Your Mother</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026013000 +0100</Start>
+    <Stop>20151026020000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>2 1/2 män</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026020000 +0100</Start>
+    <Stop>20151026022500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Family Guy</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026022500 +0100</Start>
+    <Stop>20151026025500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Heroes Reborn</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026025500 +0100</Start>
+    <Stop>20151026042500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Brooklyn Nine-Nine</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026042500 +0100</Start>
+    <Stop>20151026045000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>American Dad</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026045000 +0100</Start>
+    <Stop>20151026051500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>American Dad</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026051500 +0100</Start>
+    <Stop>20151026053500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Cops</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026053500 +0100</Start>
+    <Stop>20151026055900 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>The Vampire Diaries</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026060000 +0100</Start>
+    <Stop>20151026064500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Stargate SG-1</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026064500 +0100</Start>
+    <Stop>20151026073500 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Våra värsta år</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026073500 +0100</Start>
+    <Stop>20151026080000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Våra värsta år</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026080000 +0100</Start>
+    <Stop>20151026083000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>TV-SHOP</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026083000 +0100</Start>
+    <Stop>20151026090000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>The King of Queens</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026090000 +0100</Start>
+    <Stop>20151026093000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>The King of Queens</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026093000 +0100</Start>
+    <Stop>20151026100000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>My name is Earl</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026100000 +0100</Start>
+    <Stop>20151026103000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026103000 +0100</Start>
+    <Stop>20151026110000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026110000 +0100</Start>
+    <Stop>20151026113000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Stargate SG-1</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026113000 +0100</Start>
+    <Stop>20151026123000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Jims värld</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026123000 +0100</Start>
+    <Stop>20151026130000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>The King of Queens</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026130000 +0100</Start>
+    <Stop>20151026133000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>The King of Queens</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026133000 +0100</Start>
+    <Stop>20151026140000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Seinfeld</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026140000 +0100</Start>
+    <Stop>20151026143000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Seinfeld</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026143000 +0100</Start>
+    <Stop>20151026150000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026150000 +0100</Start>
+    <Stop>20151026153000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026153000 +0100</Start>
+    <Stop>20151026160000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Brooklyn Nine-Nine</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026160000 +0100</Start>
+    <Stop>20151026163000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Brooklyn Nine-Nine</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026163000 +0100</Start>
+    <Stop>20151026170000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Scrubs</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026170000 +0100</Start>
+    <Stop>20151026173000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Scrubs</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026173000 +0100</Start>
+    <Stop>20151026180000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>How I Met Your Mother</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026180000 +0100</Start>
+    <Stop>20151026183000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>How I Met Your Mother</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026183000 +0100</Start>
+    <Stop>20151026190000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Anger Management</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026190000 +0100</Start>
+    <Stop>20151026193000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026193000 +0100</Start>
+    <Stop>20151026200000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026200000 +0100</Start>
+    <Stop>20151026203000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Simpsons</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026203000 +0100</Start>
+    <Stop>20151026210000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>2 1/2 män</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026210000 +0100</Start>
+    <Stop>20151026213000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Anger Management</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026213000 +0100</Start>
+    <Stop>20151026220000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Last Man on Earth</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026220000 +0100</Start>
+    <Stop>20151026223000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Family Guy</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026223000 +0100</Start>
+    <Stop>20151026230000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>American Dad</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026230000 +0100</Start>
+    <Stop>20151026233000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Scrubs</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151026233000 +0100</Start>
+    <Stop>20151027000000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>Scrubs</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151027000000 +0100</Start>
+    <Stop>20151027003000 +0100</Stop>
+  </Programme>
+  <Programme>
+    <Title>How I Met Your Mother</Title>
+    <Channel>tv6.se</Channel>
+    <Start>20151027003000 +0100</Start>
+    <Stop>20151027010000 +0100</Stop>
+  </Programme>
 </Programmes>
