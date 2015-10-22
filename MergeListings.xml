@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Filename: CombineListings.xsd -->
+<!-- Filename: MergeListings.xsd -->
 <!-- Author: Albin Engström -->
 
 <!-- Link to the xsl file used to transform the listings -->
-<?xml-stylesheet type="text/xsl" href="CombineListings.xsl"?>
+<?xml-stylesheet type="text/xsl" href="MergeListings.xsl"?>
 
 <!-- The root tag -->
 <Listings>
