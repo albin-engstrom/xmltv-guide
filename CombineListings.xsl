@@ -9,59 +9,64 @@
 	<!-- Template -->
 	<xsl:template match="/">
 
-		<Channels>
+		<!-- Element to hold listing data and links an xml schema -->
+		<Listings
+			xmlns="http://www.w3schools.com"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 			xsi:noNamespaceSchemaLocation="AllListings.xsd">
 
-			<!-- Iterate through Listings -->
-			<xsl:for-each select="/Listings/Listing">
+			<!-- Holds the channel data -->
+			<Channels>
 
-				<!-- Holds the channel info -->
-				<Channel>
+				<!-- Iterate through Listings -->
+				<xsl:for-each select="/Listings/Listing">
 
-					<!-- The channel name -->
-					<Name><xsl:value-of select="./Channel"/></Name>
+					<!-- Holds the channel info -->
+					<Channel>
 
-					<!-- The channel logo -->
-					<Logo><xsl:value-of select="./Logo"/></Logo>
+						<!-- The channel name -->
+						<Name><xsl:value-of select="./Channel"/></Name>
 
-				</Channel>
-			</xsl:for-each>
-		</Channels>
+						<!-- The channel logo -->
+						<Logo><xsl:value-of select="./Logo"/></Logo>
 
-		<!-- Start the next element on a new line -->
-		<xsl:text>&#xa;</xsl:text>
-
-		<!-- The tag that hold programmes -->
-		<Programmes>
-
-			<!-- Iterate through Listings -->
-			<xsl:for-each select="/Listings/Listing">
-
-				<xsl:variable name="File" select="./File"/>
-
-				<!-- Variable with root element for the listing file -->
-				<xsl:variable name="Root" select="document($File)/tv"/>
-
-				<!-- Iterate through all programme elements -->
-				<xsl:for-each select="$Root/programme">
-
-					<!-- The element holding the programme metadata -->
-					<Programme>
-
-						<!-- The title -->
-						<Title><xsl:value-of select="title"/></Title>
-
-						<!-- The channel -->
-						<Channel><xsl:value-of select="@channel"/></Channel>
-
-						<!-- The start time -->
-						<Start><xsl:value-of select="@start"/></Start>
-
-						<!-- The stop time -->
-						<Stop><xsl:value-of select="@stop"/></Stop>
-
-					</Programme>
+					</Channel>
 				</xsl:for-each>
-			</xsl:for-each>
-		</Programmes>
+			</Channels>
+
+			<!-- The tag that hold programmes -->
+			<Programmes>
+
+				<!-- Iterate through Listings -->
+				<xsl:for-each select="/Listings/Listing">
+
+					<xsl:variable name="File" select="./File"/>
+
+					<!-- Variable with root element for the listing file -->
+					<xsl:variable name="Root" select="document($File)/tv"/>
+
+					<!-- Iterate through all programme elements -->
+					<xsl:for-each select="$Root/programme">
+
+						<!-- The element holding the programme metadata -->
+						<Programme>
+
+							<!-- The title -->
+							<Title><xsl:value-of select="title"/></Title>
+
+							<!-- The channel -->
+							<Channel><xsl:value-of select="@channel"/></Channel>
+
+							<!-- The start time -->
+							<Start><xsl:value-of select="@start"/></Start>
+
+							<!-- The stop time -->
+							<Stop><xsl:value-of select="@stop"/></Stop>
+
+						</Programme>
+					</xsl:for-each>
+				</xsl:for-each>
+			</Programmes>
+		</Listings>
 	</xsl:template>
 </xsl:stylesheet>

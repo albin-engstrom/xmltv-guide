@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Filename: AllListings.xsd -->
+<!-- Author: Albin Engström -->
+
+<!-- Declare a schema -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<!-- The root element -->
+  <xsd:element name="Listings">
+
+    <!-- There's severl elements in it -->
+    <xsd:complexType>
+
+      <!-- They must come in order -->
+      <xsd:sequence>
+
+        <xsd:element name="Channels" type="ChannelType" minOccurs="1"
+					maxOccurs="unbounded"/>
+
+        <xsd:element name="Programmes" type="ProgrammesType" minOccurs="0"
+					maxOccurs="unbounded"/>
+
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+	<!-- Define ChannelType -->
+	<xsd:complexType name="ChannelType">
+
+		  <xsd:element name="Name" type="xsd:string"/>
+		  <xsd:element name="Logo" type="xsd:string"/>
+
+	</xsd:complexType>
+
+	<!-- Define ProgrammesType -->
+	<xsd:complexType name="ProgrammesType">
+
+		  <xsd:element name="Title" type="xsd:string"/>
+		  <xsd:element name="Channel" type="xsd:string"/>
+		  <xsd:element name="Start" type="xsd:string"/>
+		  <xsd:element name="Stop" type="xsd:string"/>
+
+	</xsd:complexType>
+</xsd:schema>
