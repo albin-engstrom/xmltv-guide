@@ -1,6 +1,6 @@
 xquery version "1.0";
  
-let $source_doc := fn:doc("AllListings.xml")
+let $Listings := fn:doc("AllListings.xml")
 return
 
 (: The html tag :)
@@ -10,10 +10,25 @@ return
    </head>
   
   <body>
-    {
-      for $b in $source_doc/Listings/Channels/Channel
+    { 
+      for $Channel in $Listings/Listings/Channels/Channel
       return
-      <p>{$b/Name/text()}</p>
+      <table>
+        <tr>
+          <th>{$Channel/Name/text()}</th>
+        </tr>
+        {
+          for $Programme in $Listings/Listings/Programmes/Programme
+          where ($Programme/Channel/text() = $Channel/Name/text())
+          order by $Programme/Start ascending
+          return
+          <tr>
+            <td>{$Programme/Title/text()}</td>
+          </tr>
+          
+        }
+      
+      </table>
     } 
   </body>
 </html>
