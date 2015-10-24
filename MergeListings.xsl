@@ -7,16 +7,15 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 	<!-- Set output to xml -->
-	<xsl:output method="xml" indent="yes"/>
+	<xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
 	<!-- Template -->
 	<xsl:template match="/">
 
 		<!-- Element to hold listing data and links an xml schema -->
 		<Listings
-			xmlns="http://www.w3schools.com"
 				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 			xsi:noNamespaceSchemaLocation="AllListings.xsd">
+		 			xsi:SchemaLocation="AllListings.xsd">
 
 			<!-- Holds the channel data -->
 			<Channels>

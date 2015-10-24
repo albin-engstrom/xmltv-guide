@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<Listings xmlns="http://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AllListings.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<Listings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:SchemaLocation="AllListings.xsd">
   <Channels>
     <Channel>
       <Name>sv.hbonordic.tv</Name>

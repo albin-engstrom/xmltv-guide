@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<Listings>
+
+
+<Channels>
+	<Channel>
+		<Name>sv.hbonordic.tv</Name>
+		<Logo>Logos/sv.hbonordic.tv.png</Logo>
+	</Channel>
+	<Channel>
+		<Name>svt1hd.svt.se</Name>
+		<Logo>Logos/svt1hd.svt.se.png</Logo>
+	</Channel>
+	<Channel>
+		<Name>tv6.se</Name>
+		<Logo>Logos/tv6.se.png</Logo>
+	</Channel>
+</Channels>
+</Listings>
