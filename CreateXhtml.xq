@@ -8,9 +8,17 @@ return
   
   <!-- head tag -->
   <head>
+  
+    <!-- The meta tag -->
+    <meta http-equiv="Content-Type" content="text/html charset=utf-8" />
+
+    <!-- Link the stylesheet -->
+    <link rel="stylesheet" type="text/css" href="TvGuide.css" />
+
     
     <!-- title tag -->
     <title>Tv Guide</title>
+    
   </head>
   
   <!-- body tag -->
@@ -23,9 +31,13 @@ return
       (: return a table containing programme data :)
       return
       <table>
+      <caption>{$Channel/Name/text()}</caption>
         <tr>
-          <th>{$Channel/Name/text()}</th>
+          <th>Start Time</th>
+          <th>Stop Time</th>
+          <th>Title</th>
         </tr>
+        
         {
           
           (: Iterate through the programmes in the current channel:)
@@ -67,7 +79,7 @@ return
               $StopHour}:{$StopMinute}</td>
               
               
-            <td>{$Programme/Title/text()}</td>
+            <td class="Title">{$Programme/Title/text()}</td>
           </tr>
         }
       </table>
