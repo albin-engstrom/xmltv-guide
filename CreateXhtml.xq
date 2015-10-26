@@ -30,6 +30,7 @@ return
       
       (: return a table containing programme data :)
       return
+      <div>
       <table>
       <caption>{$Channel/Name/text()}</caption>
         <tr>
@@ -83,6 +84,7 @@ return
           </tr>
         }
       </table>
+      </div>
     } 
   </body>
 </html>
