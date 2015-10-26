@@ -38,27 +38,18 @@
 			<!-- On the title -->
 			<xsl:apply-templates select="/html/head/title"/>
 
-			<!-- ============================================
-			This one line of code processes everything in
-			the body of the document.  The template that
-			processes the <body> element in turn processes
-			everything that's inside it.
-			=============================================== -->
-
+			<!-- On the table -->
 			<xsl:apply-templates select="/html/body/div/table"/>
 
 		</fo:flow>
 	</xsl:template>
 
-
-
-
-
 	<!-- Template for the table tag -->
 	<xsl:template match="table">
 
 		<!-- Handles the caption -->
-		<fo:block>
+		<fo:block font-size="35pt" font-weight="bold" padding-before="20pt"
+			text-align="center">
 			<xsl:apply-templates select="caption|text()"/>
 		</fo:block>
 
@@ -67,142 +58,49 @@
 			<xsl:call-template name="build-columns">
 				<xsl:with-param name="cols"
 					select="concat(@cols, ' ')"/>
-				</xsl:call-template>
-				<fo:table-body>
-					<xsl:apply-templates select="*"/>
-				</fo:table-body>
-			</fo:table>
-		</xsl:template>
+			</xsl:call-template>
+			<fo:table-body>
+				<xsl:apply-templates select="*"/>
+			</fo:table-body>
+		</fo:table>
+	</xsl:template>
 
-		<!-- ============================================
-		For a table cell, we put everything inside a
-		<fo:table-cell> element.  We set the padding
-		property correctly, then we set the border
-		style.  For the border style, we look to see if
-		any of the ancestor elements we care about
-		specified a solid border.  Next, we check for the
-		rowspan, colspan, and align attributes.  Notice
-		that for align, we check this element, then go
-		up the ancestor chain until we find the <table>
-		element or we find something that specifies the
-		alignment.
-		=============================================== -->
-
+		<!-- Template for the td tag -->
 		<xsl:template match="td">
+
+			<!-- Create a cell -->
 			<fo:table-cell
 				padding-start="3pt" padding-end="3pt"
 				padding-before="3pt" padding-after="3pt">
-				<xsl:if test="@colspan">
-					<xsl:attribute name="number-columns-spanned">
-						<xsl:value-of select="@colspan"/>
-					</xsl:attribute>
-				</xsl:if>
-				<xsl:if test="@rowspan">
-					<xsl:attribute name="number-rows-spanned">
-						<xsl:value-of select="@rowspan"/>
-					</xsl:attribute>
-				</xsl:if>
-				<xsl:if test="@border='1' or
-					ancestor::tr[@border='1'] or
-					ancestor::thead[@border='1'] or
-					ancestor::table[@border='1']">
-					<xsl:attribute name="border-style">
-						<xsl:text>solid</xsl:text>
-					</xsl:attribute>
-					<xsl:attribute name="border-color">
-						<xsl:text>black</xsl:text>
-					</xsl:attribute>
-					<xsl:attribute name="border-width">
-						<xsl:text>1pt</xsl:text>
-					</xsl:attribute>
-				</xsl:if>
-				<xsl:variable name="align">
-					<xsl:choose>
-						<xsl:when test="@align">
-							<xsl:choose>
-								<xsl:when test="@align='center'">
-									<xsl:text>center</xsl:text>
-								</xsl:when>
-								<xsl:when test="@align='right'">
-									<xsl:text>end</xsl:text>
-								</xsl:when>
-								<xsl:when test="@align='justify'">
-									<xsl:text>justify</xsl:text>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:text>start</xsl:text>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:when test="ancestor::tr[@align]">
-							<xsl:choose>
-								<xsl:when test="ancestor::tr/@align='center'">
-									<xsl:text>center</xsl:text>
-								</xsl:when>
-								<xsl:when test="ancestor::tr/@align='right'">
-									<xsl:text>end</xsl:text>
-								</xsl:when>
-								<xsl:when test="ancestor::tr/@align='justify'">
-									<xsl:text>justify</xsl:text>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:text>start</xsl:text>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:when test="ancestor::thead">
-							<xsl:text>center</xsl:text>
-						</xsl:when>
-						<xsl:when test="ancestor::table[@align]">
-							<xsl:choose>
-								<xsl:when test="ancestor::table/@align='center'">
-									<xsl:text>center</xsl:text>
-								</xsl:when>
-								<xsl:when test="ancestor::table/@align='right'">
-									<xsl:text>end</xsl:text>
-								</xsl:when>
-								<xsl:when test="ancestor::table/@align='justify'">
-									<xsl:text>justify</xsl:text>
-								</xsl:when>
-								<xsl:otherwise>
-									<xsl:text>start</xsl:text>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:text>start</xsl:text>
-						</xsl:otherwise>
-					</xsl:choose>
-				</xsl:variable>
-				<fo:block text-align="{$align}">
+
+				<!-- Set the border -->
+				<xsl:attribute name="border-style">
+					<xsl:text>solid</xsl:text>
+				</xsl:attribute>
+				<xsl:attribute name="border-color">
+					<xsl:text>black</xsl:text>
+				</xsl:attribute>
+				<xsl:attribute name="border-width">
+					<xsl:text>1pt</xsl:text>
+				</xsl:attribute>
+
+				<!-- Adds the text abd lef align it -->
+				<fo:block text-align="left">
 					<xsl:apply-templates select="*|text()"/>
 				</fo:block>
+
 			</fo:table-cell>
 		</xsl:template>
 
-		<!-- ============================================
-		The rarely-used <tfoot> element contains some
-		number of <tr> elements; we just invoke the
-		template for <tr> here.
-		=============================================== -->
-
-		<xsl:template match="tfoot">
-			<xsl:apply-templates select="tr"/>
-		</xsl:template>
-
-		<!-- ============================================
-		If there's a <th> element, we process it just
-		like a normal <td>, except the font-weight is
-		always bold and the text-align is always center.
-		=============================================== -->
-
+		<!-- Template for the th tag -->
 		<xsl:template match="th">
+
+			<!-- Create a cell -->
 			<fo:table-cell
 				padding-start="3pt" padding-end="3pt"
 				padding-before="3pt" padding-after="3pt">
-				<xsl:if test="@border='1' or
-					ancestor::tr[@border='1'] or
-					ancestor::table[@border='1']">
+
+					<!-- Set border -->
 					<xsl:attribute name="border-style">
 						<xsl:text>solid</xsl:text>
 					</xsl:attribute>
@@ -212,29 +110,16 @@
 					<xsl:attribute name="border-width">
 						<xsl:text>1pt</xsl:text>
 					</xsl:attribute>
-				</xsl:if>
-				<fo:block font-weight="bold" text-align="center">
+
+				<!-- Add the text bold and left aligned -->
+				<fo:block font-weight="bold" text-align="left">
 					<xsl:apply-templates select="*|text()"/>
 				</fo:block>
+
 			</fo:table-cell>
 		</xsl:template>
 
-		<!-- ============================================
-		Just like <tfoot>, the rarely-used <thead> element
-		contains some number of table rows.  We just
-		invoke the template for <tr> here.
-		=============================================== -->
-
-		<xsl:template match="thead">
-			<xsl:apply-templates select="tr"/>
-		</xsl:template>
-
-		<!-- ============================================
-		The title of the document is rendered in a large
-		bold font, centered on the page.  This is the
-		<title> element in the <head> in <html>.
-		=============================================== -->
-
+		<!-- Template for the title tag -->
 		<xsl:template match="title">
 			<fo:block space-after="18pt" line-height="27pt"
 				font-size="24pt" font-weight="bold" text-align="center">
@@ -242,51 +127,30 @@
 			</fo:block>
 		</xsl:template>
 
-		<!-- ============================================
-		For an HTML table row, we create an XSL-FO table
-		row, then invoke the templates for everything
-		inside it.
-		=============================================== -->
-
+		<!-- Template for the tr tag -->
 		<xsl:template match="tr">
 			<fo:table-row>
 				<xsl:apply-templates select="*|text()"/>
 			</fo:table-row>
 		</xsl:template>
 
-		<!-- ============================================
-		This template generates an <fo:table-column>
-		element for each token in the cols attribute of
-		the HTML <table> tag.  The template processes
-		the first token, then invokes itself with the
-		rest of the string.
-		=============================================== -->
-
+		<!-- Creates table columns using the cols attribute of the html table -->
 		<xsl:template name="build-columns">
 			<xsl:param name="cols"/>
 
+			<!-- If there are anything left in $cols -->
 			<xsl:if test="string-length(normalize-space($cols))">
-				<xsl:variable name="next-col">
-					<xsl:value-of select="substring-before($cols, ' ')"/>
-				</xsl:variable>
+
+				<!-- Set the remaining cols -->
 				<xsl:variable name="remaining-cols">
 					<xsl:value-of select="substring-after($cols, ' ')"/>
 				</xsl:variable>
-				<xsl:choose>
-					<xsl:when test="contains($next-col, 'pt')">
-						<fo:table-column column-width="{$next-col}"/>
-					</xsl:when>
-					<xsl:when test="number($next-col) &gt; 0">
-						<fo:table-column column-width="{concat($next-col, 'pt')}"/>
-					</xsl:when>
-					<xsl:otherwise>
-						<fo:table-column column-width="50pt"/>
-					</xsl:otherwise>
-				</xsl:choose>
 
+				<!-- Call itself with the remaining columns -->
 				<xsl:call-template name="build-columns">
 					<xsl:with-param name="cols" select="concat($remaining-cols, ' ')"/>
 				</xsl:call-template>
+
 			</xsl:if>
 		</xsl:template>
 

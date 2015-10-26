@@ -31,7 +31,7 @@ return
       (: return a table containing programme data :)
       return
       <div>
-      <table cols="100 100 100pt">
+      <table cols="1 1 1">
       <caption>{$Channel/Name/text()}</caption>
         <tr>
           <th>Start Time</th>
