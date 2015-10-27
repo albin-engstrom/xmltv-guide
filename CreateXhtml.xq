@@ -30,8 +30,9 @@ return
 
       (: return a table containing programme data :)
       return
-      <div>
+      <div align="center">
       <table cols="1 1 1">
+      <img src="{$Channel/Logo/text()}" alt="logo" align="middle"/>
       <caption>{$Channel/Name/text()}</caption>
         <tr>
           <th>Start Time</th>
