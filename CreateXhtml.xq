@@ -23,6 +23,7 @@ return
 
   <!-- body tag -->
   <body>
+    <a href="TvGuide.odfl">A printer friendly PDF</a>
     {
 
       (: Iterate through the channels :)
