@@ -1,6 +1,18 @@
-xquery version "1.0";
+xquery version "3.0";
+
+(: Use an xml declaration :)
+declare option output:omit-xml-declaration "no";
+
+(: Declare xhtml as the ouput :)
+declare option output:method "xhtml";
+
+(: Declare the doctype :)
+declare option output:doctype-public "-//W3C//DTD XHTML 1.0 Transitional//EN";
+declare option output:doctype-system 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd";
 
 let $Listings := fn:doc("AllListings.xml")
+
 return
 
 (: The html tag :)
@@ -23,7 +35,7 @@ return
 
   <!-- body tag -->
   <body>
-    <a href="TvGuide.odfl">A printer friendly PDF</a>
+    <a href="TvGuide.pdf">A printer friendly PDF</a>
     {
 
       (: Iterate through the channels :)
@@ -32,8 +44,8 @@ return
       (: return a table containing programme data :)
       return
       <div align="center">
+      <img src="{$Channel/Logo/text()}" alt="logo"/>
       <table cols="1 1 1">
-      <img src="{$Channel/Logo/text()}" alt="logo" align="middle"/>
       <caption>{$Channel/Name/text()}</caption>
         <tr>
           <th>Start Time</th>
