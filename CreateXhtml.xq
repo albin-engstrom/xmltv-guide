@@ -6,11 +6,6 @@ declare option output:omit-xml-declaration "no";
 (: Declare xhtml as the ouput :)
 declare option output:method "xhtml";
 
-(: Declare the doctype :)
-declare option output:doctype-public "-//W3C//DTD XHTML 1.0 Transitional//EN";
-declare option output:doctype-system 
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd";
-
 let $Listings := fn:doc("AllListings.xml")
 
 return
